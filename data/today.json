@@ -1,0 +1,2275 @@
+{
+  "metadata": {
+    "generated_at": "2026-10-22T05:22:16.340766+00:00",
+    "papers_scanned": 473,
+    "breakthroughs_identified": 151,
+    "schema_version": "1.0.0"
+  },
+  "papers": [
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26924v1",
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "authors": [
+        "Nan Jia, Wenxuan Shi, Jingqing Ruan, Zhizhao Zeng, Tianyi Zhai, Zhongda Su, Feng Hong, Zhengyu Chen, Wenhao Yan, Haojin Yang, Siqi Dai, Weipeng Zhang, Ke Zeng, Xunliang Cai"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26924v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26924v1 Announce Type: new  Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challengi"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26943v1",
+      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "authors": [
+        "Xinping Wang, Jie Ma, Rui Xing, Wensong Guo, Xiayi Zhang, Jianhao Deng, Zihao Zhou, Boqian Yang, Feijuan He"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26943v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "MATH",
+      "has_github_repo": true,
+      "github_url": "https://github.com/mira-ai-lab/AgentMath",
+      "tldr_summary": "arXiv:2610.26943v1 Announce Type: new  Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26948v1",
+      "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+      "authors": [
+        "He Ma, Lan You, Qiyang Wu, Chen Liu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26948v1",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26948v1 Announce Type: new  Abstract: Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with multimodal product information. However, extending these methods to many product domains faces a dilemma: deploying"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26964v1",
+      "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+      "authors": [
+        "Mayukh Debnath, Adeyinka Adedigba, Rammohan Mallipeddi"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26964v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "MATH, ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26964v1 Announce Type: new  Abstract: Large language models (LLMs) struggle with classical planning, but benchmarks rarely distinguish structural difficulty from the difficulty of interpreting symbolic vocabulary. We examine seven STRIPS domains with BFS-optimal plan l"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27032v1",
+      "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+      "authors": [
+        "Ziyang Liu, Jiakang Yuan, Jiayuan Fan, Tao Chen"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27032v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27032v1 Announce Type: new  Abstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key limi"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27099v1",
+      "title": "A general-purpose System One decision model for clinical records",
+      "authors": [
+        "Andrew Zhang, Trinh T. L. Vuong, Sophia J. Wagner, Dongmin Bang, Tong Ding, Yuchang Su, Mary Cipperman, Christina S. Chen, Judith Lefkes, Ramin Kahidi, Ming Y. Lu, Caiwei Tian, Tianhao Luo, Jingnan Ma, Rowland Pettit, Long Phi Le, Faisal Mahmood"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27099v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27099v1 Announce Type: new  Abstract: Clinical care, health-system operations and biomedical discovery depend on extracting reliable answers from patient records, yet applying diverse clinical questions across entire populations remains computationally expensive. Here "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27103v1",
+      "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+      "authors": [
+        "Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27103v1",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/ZiiJianLiu/Omni-Woodpecker",
+      "tldr_summary": "arXiv:2610.27103v1 Announce Type: new  Abstract: Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlookin"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27120v1",
+      "title": "EDMA: Entropy-Driven Multimodal Answering",
+      "authors": [
+        "Emanuele Mezzi, Gertjan Burghouts, Fabio Massacci, Mengyuan Zhang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27120v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27120v1 Announce Type: new  Abstract: Multimodal question answering (MMQA) is based on integrating heterogeneous data sources, selectively leveraging relevant modalities, and ignoring distractors. Existing approaches based on Multimodal Large Language Models (MLLMs) im"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27203v1",
+      "title": "LSA-PAST: Layer-Specific Adaptation and Prototype Transport for Compositional Incremental Learning",
+      "authors": [
+        "Kyle Stein, Andrew Arash Mahyari, Guillermo Francia III, Eman El-Sheikh, Jiangpeng He"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27203v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27203v1 Announce Type: new  Abstract: Class-Incremental Learning (CIL) enables models to recognize new classes over time while retaining prior knowledge, but many real-world problems are compositional, where visual concepts arise from combinations of primitives such as"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27234v1",
+      "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
+      "authors": [
+        "Zhiwei Liu, Zhujun Lan, Jielin Qiu, Zixiang Chen, Liangwei Yang, Ming Zhu, Akshara Prabhakar, Wenting Zhao, John Emmons, Jason Wu, Shafiq Rayhan Joty, Junnan Li, Shelby Heinecke, Silvio Savarese, Huan Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27234v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/SalesforceAIResearch/egi-bench",
+      "tldr_summary": "arXiv:2610.27234v1 Announce Type: new  Abstract: Enterprise adoption of LLMs in agentic workflows is gated by evaluations that span a wide arc of abilities: CRM operations, heterogeneous-document retrieval, personal data understanding, multi-turn planning, tool use, function call"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27290v1",
+      "title": "TEX: Test-Time Scaling Testing Agents via Execution-based Cross-Validation",
+      "authors": [
+        "Akash Gokul, Srijan Bansal, Yingbo Zhou, Semih Yavuz"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27290v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27290v1 Announce Type: new  Abstract: Test-case generation is critical but remains challenging for language models. Existing test-time scaling methods either isolate candidates or aggregate traces, which do not scale to long-horizon tasks."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27293v1",
+      "title": "Vulnerability Analysis for Safe Multi-Agent Reinforcement",
+      "authors": [
+        "Taozheng Zhu, Shixiong Jiang, Fanxin Kong"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27293v1",
+      "is_breakthrough": true,
+      "architecture_type": "Reinforcement Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27293v1 Announce Type: new  Abstract: Safe Multi-Agent Reinforcement Learning (SMARL) aims to learn cooperative control policies under prescribed safety constraints. Al- though existing SMARL methods focus on enforcing safety during policy optimization, their vulnerabi"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27377v1",
+      "title": "REM: What to Store, When to Recall, What to Forget in Experience Memory for Coding Agents",
+      "authors": [
+        "Xinyi Lisa Chen, Pedro Herrero-Vidal, Xiaohan Chen, Xiaojing Yu, Cris Liu, Bingqing Song, Bin Xu, Suleiman A. Khan, You-Lin Chen"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27377v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27377v1 Announce Type: new  Abstract: Large language model (LLM) agents now autonomously complete long-horizon tasks, such as repository-level coding, through hundreds of think-act steps, yet the experience each run produces is rarely reused on the next. Prior memory s"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27400v1",
+      "title": "ProMemAgent: Long-Horizon Proactive Assistance with Context-Aware Prospective Memory from Sensory Perceptions",
+      "authors": [
+        "Lilin Xu, Linyang He, Kaiyuan Hou, Yuang Fan, Minghui Zhao, Xuhai Xu, Xiaofan Jiang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27400v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27400v1 Announce Type: new  Abstract: Large language model (LLM) agents are moving beyond reactive responses toward proactive assistance that anticipates user needs without explicit requests. However, existing proactive agents primarily address immediate needs, while m"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27450v1",
+      "title": "Ask to Distill: Learning to Synthesize Data for On-Policy Distillation",
+      "authors": [
+        "Jiashuo Sun, Hao Zhang, Xueqiang Xu, Heng Wang, Yixuan Xie, Pengcheng Jiang, Zhenrui Yue, Jiajun Fan, Peiran Li, Ge Liu, Shaowen Wang, Jiawei Han"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27450v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "MATH",
+      "has_github_repo": true,
+      "github_url": "https://github.com/GasolSun36/Ask_to_Distill",
+      "tldr_summary": "arXiv:2610.27450v1 Announce Type: new  Abstract: On-policy distillation (OPD) can succeed with surprisingly few training questions, motivating a view of questions as carriers of distributional knowledge transfer. How can we assess whether a newly generated question is valuable fo"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27548v2",
+      "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",
+      "authors": [
+        "Zhiping Zhang, Franklin Mingzhe Li, Zihao Huang, Tianshi Li"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27548v2",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/PEACH-Research-Lab/AuthorizationBench",
+      "tldr_summary": "arXiv:2610.27548v2 Announce Type: new  Abstract: When an LLM agent acts on behalf of a user, it is expected to act within the authorization scope the user grants. Existing agent evaluations largely measure task completion or harmful consequences and can therefore overlook actions"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27581v1",
+      "title": "DuplexLedger: Benchmarking Transactional Memory in Full-Duplex Speech Agents",
+      "authors": [
+        "Yuxuan Li, Xiangchen Guan, Kunrong Li, Jin Wang, Kaiwen Luo, Yang Xiao, Yufei Guo, Zhisheng Chen, Liang Lin, Kun Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27581v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/lyx-researcher/DuplexLedger",
+      "tldr_summary": "arXiv:2610.27581v1 Announce Type: new  Abstract: Full-duplex speech agents must update persistent memory while listening and speaking, yet it remains unclear which events should be stored, revised, or excluded. Existing benchmarks isolate interaction timing from memory outcomes, "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27632v1",
+      "title": "When Does Feedback Help? Auditing Learned Voltage-Clamp Experimental Design",
+      "authors": [
+        "Rayan Nyaupane, Abhiram Bhupatiraju"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27632v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27632v1 Announce Type: new  Abstract: A learned scientific controller can outperform a misspecified planner without benefiting from feedback. We audit two synthetic voltage-clamp tasks with a training-selected fixed protocol, current masking, a Bayesian reference, and "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27637v1",
+      "title": "SCODEL: Shared Canonical Ontology Definitions for Food Entity Linking and Ontology-Grounded Recipe Knowledge Graphs",
+      "authors": [
+        "Nuhu Ibrahim, Rishi Ravikumar, Ayuba Dauda, Fuqi Xu, Robert Stevens, Riza Batista-Navarro"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27637v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27637v1 Announce Type: new  Abstract: Identifying recipe entities and linking them to ontology concepts is fundamental for semantic recipe understanding. However, food mentions in recipes are often ambiguous, context-dependent, and lexically diverse, making ontology en"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27645v1",
+      "title": "CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents",
+      "authors": [
+        "Xu Hu, Haoming Li, Yuxiang Wang, Jinxin Yang, Kangshuo Li, Licheng Wang, Dingyi Kang, Jiayu Song, Tianhao Wang, Zhanhua Hu, Xu Yang, Qiannan Li, Bingzhe Li, Feng Chen"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27645v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/xu-hu-2002/CUA-Recovery",
+      "tldr_summary": "arXiv:2610.27645v1 Announce Type: new  Abstract: As computer-use agents (CUAs) move to long-horizon workflows spanning multiple applications, undetected errors can silently corrupt persistent state and cause cascading failures in subsequent actions. Reliable error detection and r"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27662v1",
+      "title": "When Can LLM Reasoning Reliably Reuse Intermediate Results?",
+      "authors": [
+        "Deyuan Liu, Zecheng Wang, Xuanyi Liu, Jungang Li, Yihao Hu, Mingjie Tang, Bryan Dai, Jie Fu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27662v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "MATH",
+      "has_github_repo": true,
+      "github_url": "https://github.com/SempraETY/Intermediate-State-Reuse",
+      "tldr_summary": "arXiv:2610.27662v1 Announce Type: new  Abstract: Sampling complete solutions gives large language models more chances to solve a problem, but each attempt starts again. For tasks with several subproblems, all required answers must be correct in the same attempt."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27670v1",
+      "title": "Reusing Multimodal Agents: Efficient Evaluation of Sound Designs in Games",
+      "authors": [
+        "Thai Nguyen Van, Ibrahim Khan, Mury Fajar Dewantoro, Pratch Suntichaikul, Hai Van Pham, Ruck Thawonmas"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27670v1",
+      "is_breakthrough": true,
+      "architecture_type": "Reinforcement Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/thainv0212/tog-reusing-agents",
+      "tldr_summary": "arXiv:2610.27670v1 Announce Type: new  Abstract: This paper introduces a novel framework for efficiently evaluating in-game sound designs using multimodal learning and reinforcement learning. Sound design significantly influences gameplay and accessibility; however, objective eva"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27699v1",
+      "title": "E8-QAT: Efficient 2-Bit Quantization-Aware Training with Implicit Lattice Codebooks",
+      "authors": [
+        "Xinyu Lei, Hong Huang, Jiebin Zhang, Hongyu Li, Jinlong Song, Decheng Wu, Guanghua Yu, Jianchen Zhu, Sujian Li"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27699v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27699v1 Announce Type: new  Abstract: Low-bit quantization reduces the memory footprint of large language models, but preserving accuracy with efficient training remains challenging. Scalar quantization encodes weights independently, while explicit-codebook vector quan"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27711v1",
+      "title": "How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection",
+      "authors": [
+        "Kaiyang Wan, Forrest Sheng Bao, Amin Ahmad, Yuxia Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27711v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27711v1 Announce Type: new  Abstract: Under matched conditions, classifier-head fine-tuning (\\textsc{cls}) paradigm consistently outperforms the LLM-as-Judge sequence-to-sequence (\\textsc{s2s}) on binary hallucination detection. We trace this gap to the representations"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27860v1",
+      "title": "Physical Operating-Condition-Guided Vision-Language Matching for Cavitation Diagnosis in Industrial Pipeline Systems",
+      "authors": [
+        "Yu Sha, Junqi Tao, Deyu Wang, Horst Stoecker, Domagoj Vnucec, Andreas Widlf, Kai Zhou"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27860v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27860v1 Announce Type: new  Abstract: Cavitation diagnosis in industrial pipeline systems is challenging because acoustic responses vary substantially with operating conditions, while similar time-frequency patterns may correspond to different cavitation states. To add"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27913v1",
+      "title": "ACE-Compression: An Ability-Centric Evaluation of Compressed Large Language Models",
+      "authors": [
+        "Jiahui Ning, Liang Chen, Yuchen Liang, Yi Zhang, Fenglei Fan"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27913v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27913v1 Announce Type: new  Abstract: Model compression makes large language models deployable, but today's evaluation tells an incomplete story. Standard practice measures retained task performance and stops there."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27954v1",
+      "title": "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay",
+      "authors": [
+        "Byeonghun Bang, Sangwoo Park, Jinheon Baek, Kangsan Kim, Youngwan Lee, Sung Ju Hwang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27954v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/BangProx/ReTRACE",
+      "tldr_summary": "arXiv:2610.27954v1 Announce Type: new  Abstract: Recent advances in large (vision) language models have enabled computer-use agents that automate digital workflows via fine-grained keyboard and mouse operations. However, such agents remain fragile in long-horizon settings, where "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28083v1",
+      "title": "IECG: Weakly-Supervised Interpretability-Enhancing Foundation Model for Electrocardiogram",
+      "authors": [
+        "Huynh Dang Nguyen, Trong-Thang Pham, Anh-Thuan Do, Phuong-Nhi Dinh, Brijesh Patel, Ngan Le, Van Nguyen"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28083v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28083v1 Announce Type: new  Abstract: Electrocardiography (ECG) is a cornerstone of cardiac diagnosis, yet most machine learning methods for ECG analysis lack interpretability, limiting their clinical adoption. We present IECG, a weakly-supervised ECG foundation model "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28385v1",
+      "title": "RACE: RoPE-Aligned Attention Compression Based on Query-Key Activation Energies",
+      "authors": [
+        "Irene Tenison, Abdulrahman Alabdulkareem, Daniel Karl I. Weidele, Nima Dehmamy, Dan Gutfreund"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28385v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28385v1 Announce Type: new  Abstract: Head-dimension compression can reduce the memory required by the key-value (KV) cache, but existing methods often reconstruct full-dimensional representations during inference, adding significant decoding FLOPs overhead. We formali"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28441v1",
+      "title": "Stratified Sparse Attention: Reducing the Sparse-to-Dense Gap at Extreme Sparsity",
+      "authors": [
+        "Sahil Joshi, Prithvi Dixit, Aryan Katiyar, Agniva Chowdhury, Joseph E. Gonzalez, Anshumali Shrivastava, Aditya Desai, Kumar Krishna Agrawal"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28441v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/skylight-org/SSA-Paper-Code",
+      "tldr_summary": "arXiv:2610.28441v1 Announce Type: new  Abstract: Large Language Model inference over long contexts is increasingly bottlenecked by the cost of attending to a growing Key-Value (KV) cache. Sparse attention reduces this cost by accessing only a fraction of the cache, but existing m"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28467v1",
+      "title": "Beyond Trajectory Statistics: Community-Consistent Human Mobility Generation via Evolving User-Location Graphs",
+      "authors": [
+        "Bo Liu, Tong Li, Jiapeng Zhang, Zhu Xiao, Zhuo Tang, Kenli Li"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28467v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28467v1 Announce Type: new  Abstract: Human mobility data are fundamental to Web-based location services and broader urban applications, and mobility generation provides synthetic trajectories when real data are costly or inaccessible. Although recent mobility generato"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28479v1",
+      "title": "Claims of emergence in AI should be grounded in information decomposition",
+      "authors": [
+        "Christoph Riedl, Fernando E. Rosas"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28479v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28479v1 Announce Type: new  Abstract: When a language model develops capabilities not traceable to its individual components, when a multi-agent AI system outperforms each agent on its own, or when a human-AI pair succeeds where either fails in isolation, AI researcher"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28483v1",
+      "title": "Exploring Temporal Context-Aware Physical Grounding in Latent World Models",
+      "authors": [
+        "Yilei Man, Yang Chen, Jingcai Guo"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28483v1",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "MATH, ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/myl11045/G-JEPA",
+      "tldr_summary": "arXiv:2610.28483v1 Announce Type: new  Abstract: Learning latent dynamics is fundamental to building action-conditioned world models for planning. Among existing families, Joint Embedding Predictive Architectures (JEPAs) offer a natural framework by modeling transitions directly "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28539v1",
+      "title": "Humans Correct Their Judgments Through Debate, but Weaker AI Models Do Not",
+      "authors": [
+        "Maria Victoria Carro, Denise Alejandra Mester, Facundo Nieto, Oscar Agustin Stanchi, Guido Ernesto Bergman, Giovanni Franco Gabriel Marrafini, Trinidad Borrell, Guido Freire, Joaquin Salvador Machulsky, Mario Alejandro Leiva, Ana Lopez, Nicolas Spinelli, Luca Nicolas Forziati Gangi, Eitan Sprejer, Federico Barrera Lemarchand, Gerardo Simari, Maria Vanina Martinez"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28539v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28539v1 Announce Type: new  Abstract: How can we effectively oversee AI systems that surpass human intelligence? AI Safety via Debate proposes that two AI systems argue opposing positions and a judge, either a human or a weaker model, decides which is correct."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28562v1",
+      "title": "OptScientist: Automated Discovery of Optimization Laws",
+      "authors": [
+        "Ma ZhenYao, Yue Liang, Jian-Qiao Zhu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28562v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28562v1 Announce Type: new  Abstract: Many scientific phenomena are best understood as outcomes of underlying optimization problems, yet automated scientific discovery has largely focused on recovering equations that describe observed input-output patterns. We introduc"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28584v1",
+      "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+      "authors": [
+        "Wei Cai, Jian Zhao, Yuchen Yuan, Xuelong Li"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28584v1",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28584v1 Announce Type: new  Abstract: Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative Reasoning As"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28595v1",
+      "title": "What Do RTL Repair Benchmarks Actually Measure?",
+      "authors": [
+        "Yeyin Eva Zhu, Rishabh Ranawat"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28595v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/Evaaaz/RTLRepairBench",
+      "tldr_summary": "arXiv:2610.28595v1 Announce Type: new  Abstract: RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepairBench, 459 held-out cases with "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28601v1",
+      "title": "Evolving Agent Interfaces",
+      "authors": [
+        "Saaket Agashe, Yuzhe Yang, Gonzalo Gonzalez-Pumariega, Bhuvan Chandra Koduru, Chih-Lun Li, Jiachen Yang, Ang Li, Xin Eric Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28601v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/simular-ai/agent-s",
+      "tldr_summary": "arXiv:2610.28601v1 Announce Type: new  Abstract: Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28604v1",
+      "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
+      "authors": [
+        "Maoyuan Li, Haoyuan Li, Zhongsheng Wang, Jiamou Liu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28604v1",
+      "is_breakthrough": false,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/Maoyuan-li/Value-Expression-and-Organization",
+      "tldr_summary": "arXiv:2610.28604v1 Announce Type: new  Abstract: Current evaluation of LLM-generated debate largely focuses on argumentative quality, leaving the value structure of generated arguments underexamined. We introduce a diagnostic metric framework for comparing how values are expresse"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28619v1",
+      "title": "Adaptive Multi-Token Prediction: How far should we go?",
+      "authors": [
+        "Emile Anand, Mohammed Rehan Parwani, Xinyuan Cao"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28619v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "GSM8K",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28619v1 Announce Type: new  Abstract: Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with context: longer drafts offer greate"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2608.05387v1",
+      "title": "Fine-Tuning Small Language Models for Reliable VASP INCAR Generation",
+      "authors": [
+        "Xinyue Zhang, Jixiang Li, Bin Shao, Baishun Yang, Zhiyang Liu, Weichao Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2608.05387v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2608.05387v1 Announce Type: cross  Abstract: Language models can prepare VASP INCAR files from natural-language requests, but so far only large proprietary cloud models come close to handling the tightly coupled, physics-sensitive settings reliably, a dependence that fits p"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26890v1",
+      "title": "Disentangling Depression from Cognitive Decline in Elderly Speech Using Concurrent Clinical Assessments",
+      "authors": [
+        "Woori Jeon, Seunghee Ha, Sang-Kyu Lee, Ji Hye Yoon, Tae-Jin Yoon, Seung Jin Lee, Woojae Han, Jungmin So"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26890v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26890v1 Announce Type: cross  Abstract: Detecting depression from speech in elderly patients with mild cognitive impairment (MCI) is complicated by overlapping acoustic effects of cognitive decline. Without disentangling these, classifiers risk learning cognitive rathe"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26909v1",
+      "title": "Uncertainty Gates the Gradient: Adaptive Updates for Generalized Few-Shot 3D Segmentation",
+      "authors": [
+        "Yifei Zhao, Fanyu Zhao, Shengtang Wu, Han Zhang, Ruike Cao, Yinsheng Li"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26909v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26909v1 Announce Type: cross  Abstract: In generalized few-shot 3D point cloud segmentation, support annotations are often compromised by sparsity and occlusion. Blindly adapting to such low quality samples risks learning spurious geometric patterns rather than robust "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26914v1",
+      "title": "Steerable Pluralistic Policy Alignment from Anonymized Crowd Feedback",
+      "authors": [
+        "Akansha Kalra, Ellen R. Novoseller, Vernon J. Lawhern, Daniel S. Brown"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26914v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26914v1 Announce Type: cross  Abstract: Pluralistic alignment requires AI systems to learn from diverse populations whose preferences may reflect heterogeneous or even conflicting objectives, and to personalize their behavior to individual users. Existing approaches in"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26950v2",
+      "title": "Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation",
+      "authors": [
+        "Xuanfeng Yang, Le Gai, Jiaming Wang, Xuan Zhang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26950v2",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "MATH",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26950v2 Announce Type: cross  Abstract: Multi-teacher on-policy distillation (MOPD) integrates domain specialists into a shared student, but determining how strongly each teacher should supervise remains challenging. Existing discrepancy-based allocation can assign str"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26992v1",
+      "title": "CoASFL: Coupled Consistency Optimization for Asynchronous Split Federated Learning",
+      "authors": [
+        "Junhao Cheng, Yunming Liao, Hongli Xu, Yang Xu, Zuan Xie"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26992v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26992v1 Announce Type: cross  Abstract: Split Federated Learning (SFL) has emerged as a promising paradigm for training large-scale deep models on resource-constrained edge devices. Although asynchronous SFL alleviates the straggler bottleneck caused by system heteroge"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27001v1",
+      "title": "HierDTA: Hierarchical Structure-Aware Representation Learning for Drug--Target Affinity Prediction",
+      "authors": [
+        "Huangchao Xu, Baohua Zhang, Qian Liu, Zhong Jin, Yi Du"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27001v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27001v1 Announce Type: cross  Abstract: Drug--target affinity (DTA) prediction plays an important role in computer-aided drug discovery, where reliable computational models can help prioritize compound--protein pairs before experimental validation. A key challenge in D"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27140v1",
+      "title": "Representing short-term movement to reveal animal identity and learning progress",
+      "authors": [
+        "Ping Zhang, Quang-Huy Nguyen, Yingtie Lei, Sameera Shridhar, Zachary Leveroni, Ellie Quattrocchi, Jai Y Yu, Wei-Lun Chao"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27140v1",
+      "is_breakthrough": false,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/pizhn/TRAIL",
+      "tldr_summary": "arXiv:2610.27140v1 Announce Type: cross  Abstract: How learning progresses over time and varies across individuals is a longstanding question in cognitive and behavioral science. However, a major challenge is identifying observable behavioral measures that faithfully capture lear"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27142v1",
+      "title": "ICLHerd: Herding-Based Data Selection for LLMs with In-Context Learning as a Proxy",
+      "authors": [
+        "Yuqiao Wen, Lili Mou"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27142v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27142v1 Announce Type: cross  Abstract: Data selection plays a central role in modern large language model training, as the quality of training data strongly influences downstream performance. A common approach is to curate a development set that encodes the desired sk"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27157v1",
+      "title": "Understanding the Benefits of Scaffolds through Computational Separations",
+      "authors": [
+        "Jingchu Gai, Adam Block, Andrej Risteski"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27157v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "MATH",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27157v1 Announce Type: cross  Abstract: Inference-time harnesses, i.e., external procedures that call a model many times and keep state across calls, can substantially improve model capabilities. In this paper, we investigate the benefits of using such harnesses and th"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27244v1",
+      "title": "AutoRedClaw: Automated Red-Teaming for Claw-Style Agents",
+      "authors": [
+        "Hao Li, Tongyan Hu, Weidi Luo, Shanghao Shi, Xiaogeng Liu, Aiden Suh, Yulong Cao, Ning Zhang, William Yeoh, Yevgeniy Vorobeychik, Chaowei Xiao"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27244v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/SaFo-Lab/AutoRedClaw",
+      "tldr_summary": "arXiv:2610.27244v1 Announce Type: cross  Abstract: Agent systems are shifting from task-scoped tool-use agents to persistent, personalized assistants such as OpenClaw. These claw-style agents maintain configuration files (e.g., AGENTS.md), long-term memory, and reusable skills."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27280v1",
+      "title": "VPFlow: Value-Predictive Planning with Imperfect World Models for Offline Goal Reaching",
+      "authors": [
+        "Yunzhe Hu, Dong Xu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27280v1",
+      "is_breakthrough": true,
+      "architecture_type": "Reinforcement Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27280v1 Announce Type: cross  Abstract: Offline goal-conditioned reinforcement learning enables skill acquisition by reaching any goal from any state without dense rewards. Model-based methods allow for planning by scaling test-time compute to solve complex tasks."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27298v1",
+      "title": "Generalizing Multimodal Foundational Models in Context-Driven Class Incremental Learning",
+      "authors": [
+        "Avi Gupta, Nilotpal Sinha, Vishnu Raj, Sambuddha Saha, Pratik Joshi, Koteswar Rao Jerripothula, Tammam Tillo"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27298v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/avigupta2798/MFM-CIL",
+      "tldr_summary": "arXiv:2610.27298v1 Announce Type: cross  Abstract: Class-Incremental Learning (CIL) aims to learn new classes continuously without forgetting the previously learned ones. Recent works in CIL have significantly advanced across various modalities; however, at the intersection of au"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27350v1",
+      "title": "Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops",
+      "authors": [
+        "Arnav Grover"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27350v1",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/Arnav-Gr0ver/Refuses-When-Asked-Complies-When-Acting",
+      "tldr_summary": "arXiv:2610.27350v1 Announce Type: cross  Abstract: Frontier models can control robots through agent harnesses that loop on one question: what motion comes next toward the user's goal? We show that this default loop carries out harmful instructions."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27366v1",
+      "title": "Trail-Weighted Influence Scores for Approximate Outcome Prediction in Bayesian Networks",
+      "authors": [
+        "Sahil Kumar Rajput, Randhir Kumar"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27366v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27366v1 Announce Type: cross  Abstract: We study trail-weighted pruning of evidence for Bayesian-network prediction. A traversal enumerates the active trails from each evidence node to the outcome, scores each trail by the product of its edge strengths, and drops evide"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27538v1",
+      "title": "Less is More: Concise Retrieval and Critic-based Re-ranking for Composed Image Retrieval",
+      "authors": [
+        "Yuqian Zheng, Hyoju Ahn, Hyeongjin Ahn, Eunil Park"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27538v1",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/dxlabskku/LM-CIR",
+      "tldr_summary": "arXiv:2610.27538v1 Announce Type: cross  Abstract: Zero-shot composed image retrieval (ZS-CIR) aims to retrieve a target image based on a reference image and modification text. Recent approaches commonly rely on large vision-language models to generate target image captions for r"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27564v1",
+      "title": "CityPaint: A Free Lunch from 2D Diffusion for City-Scale 3D Texturing",
+      "authors": [
+        "Yuchen Zou, Lihuang Fang, Siyu Zhu, Xiao Hu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27564v1",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27564v1 Announce Type: cross  Abstract: Generating high-fidelity, city-scale 3D environments plays a crucial role in applications such as virtual reality, gaming, and urban digital twins. However, the scarcity of real-world city-scale 3D training data forces existing m"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27566v1",
+      "title": "Learned Readout Tokens for Extracting Large Language Model Confidence",
+      "authors": [
+        "Nima Seifi, Martin Ester"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27566v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27566v1 Announce Type: cross  Abstract: Large language models (LLMs) are increasingly used within everyday applications where their responses have significant downstream impacts. For responsible deployment of such systems, we desire insight into how much we can trust t"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27614v1",
+      "title": "Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems",
+      "authors": [
+        "Gyoung S. Na"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27614v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27614v1 Announce Type: cross  Abstract: Complex chemical systems containing heterogeneous substructures are common in real-world applications. Various physical phenomena of the complex chemical systems are derived from the interactions between the heterogeneous substru"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27669v1",
+      "title": "Pairwise Learning Increases Data Efficiency in Deep Neural Networks",
+      "authors": [
+        "Robert Bain, Marjan Rashidi, Elizabeth Chrastil"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27669v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27669v1 Announce Type: cross  Abstract: Deep neural networks often fail at small-sample regression, collapsing to low-variance predictions that miss individual differences. Here, we introduce a pairwise comparison framework that reframes regression as aggregated relati"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27677v1",
+      "title": "CovNav: Conformal Prediction-Guided Adaptive Inference for Object Goal Navigation",
+      "authors": [
+        "Pengying Wu, Zhejia Wen, Kang Ding, Kangjie Zhou, Chunxuan Jiao, Wei Pan, Xiangli Nie, Chang Liu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27677v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27677v1 Announce Type: cross  Abstract: In object goal navigation (ObjectNav), an embodied agent must find a target object (e.g., \"find a bed\") in a previously unseen environment, relying on spatial commonsense such as object co-occurrence. Large Language Models (LLMs)"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27712v1",
+      "title": "RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting",
+      "authors": [
+        "Injae Kim, Minseok Joo, Jihwan Park, Sehyung Kim, Minseong Bae, Hyunwoo J. Kim"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27712v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27712v1 Announce Type: cross  Abstract: Feed-forward 3D Gaussian Splatting (FF3DGS) reconstructs 3D scenes from images in a single forward pass, making it well-suited to applications that must operate within limited resource budgets. To further improve its practicality"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27726v1",
+      "title": "Anytime-Valid Runtime Monitoring of Learned Barrier Certificates",
+      "authors": [
+        "Zhipeng Cao, Taoran Wu, Weiru Cui, Luke Ong, Bai Xue"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27726v1",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/FormalCert-AI/runtime-barrier-monitor",
+      "tldr_summary": "arXiv:2610.27726v1 Announce Type: cross  Abstract: Learned barrier certificates provide a principled mechanism for establishing safety of stochastic systems, but their validity may deteriorate during deployment when the underlying dynamics differ from those used for training. We "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27745v1",
+      "title": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
+      "authors": [
+        "An-Sheng Jhang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27745v1",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/asj252/llm-judgment-studies",
+      "tldr_summary": "arXiv:2610.27745v1 Announce Type: cross  Abstract: Large language models (LLMs) are increasingly used as judgment assistants and as stand-in participants in psychology experiments, yet little is known about how much their probability estimates move in response to a single new pie"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27746v2",
+      "title": "S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with 500 Million Household Persona Agents",
+      "authors": [
+        "Yang Li, Di Wan, Yike Wang, Chujun He, Zongsi Xu, Xiyu Chen, Sheng Zhong, Deng Binjie, Zhenwei Guo, Hou Jun, Kunhan Guo, Weihao Lin, Tuo Zhou, Hai Liu, Ye Luo"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27746v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27746v2 Announce Type: cross  Abstract: Simulating economic responses at society scale requires agents whose decisions reflect household circumstances and the effects of earlier actions. We introduce S$^2$-MAS, a society-scale multi-agent simulation framework built on "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27820v1",
+      "title": "SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics",
+      "authors": [
+        "Xiaoyu Gu, Chencheng Wang, Fuyang Li, Yu Xi, Tao Liu, Jiaoqi Guo, Kai Yu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27820v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27820v1 Announce Type: cross  Abstract: Word error rate (WER) assigns equal cost to lexical edits despite their different semantic consequences, while overall semantic scores cannot identify which individual errors alter the intended meaning. We formulate ASR semantic "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27895v1",
+      "title": "The Shape of the DPO Hyperparameter Landscape: What to Measure, How It Moves with Scale, and When Not to Transfer It",
+      "authors": [
+        "Hannan Mahadik, David Salinas, Jacek Golebiowski, Aaron Klein"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27895v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27895v1 Announce Type: cross  Abstract: Direct preference optimisation (DPO) is widely used for language model post-training, but its performance depends strongly on the choice of its hyperparameters, such as the learning rate and the reference-policy regularisation pa"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27901v1",
+      "title": "CollabSciReM: Aligning Language Models for Scientific Conversations via Science-Aware Reward Decomposition",
+      "authors": [
+        "Sasi Kiran Gaddipati, Gollam Rabby, S\\\"oren Auer"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27901v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27901v1 Announce Type: cross  Abstract: Large Language Models (LLMs) are increasingly used as research collaborators for hypothesis refinement, methodological planning, and technical analysis across multi-turn interactions. In this setting, a useful assistant must be a"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27908v1",
+      "title": "Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing",
+      "authors": [
+        "Diego Miguel Lozano, Erik Derner, Juan Antonio P\\'erez-Ortiz, Nuria Oliver"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27908v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27908v1 Announce Type: cross  Abstract: Negation remains a persistent challenge for language models across NLP tasks and modalities. We show that this weakness can undermine LLM safety guardrails through a structural vulnerability we term polarity blindness: the failur"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.27995v1",
+      "title": "Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data",
+      "authors": [
+        "Yeonguk Yu, Jaehong Kim, Byungok Han"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.27995v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.27995v1 Announce Type: cross  Abstract: Tactile representation learning for dexterous manipulation often requires substantial robot-side data collection, limiting its scalability across different hands and sensors. We explore whether large-scale human hand-object inter"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28122v1",
+      "title": "De-Diffusing WAMs: Action-Sufficient Direct Prediction for Robot Control",
+      "authors": [
+        "Shaoyi Zheng, Zhongtao Jiang, Yue Peng, Wenbo Lu, Shunchi Zhang, Xi Wang, Shengji Wan"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28122v1",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28122v1 Announce Type: cross  Abstract: Cascade world-action models (WAMs) use predicted visual futures to condition robot actions, but inherit costly iterative inference from diffusion-pretrained experts. We ask what a single-step predicted future must preserve to sup"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28173v1",
+      "title": "Africa-Papers: A 10-Billion-Token Multi-Domain Academic Corpus for African Foundation Language Models",
+      "authors": [
+        "Mich-Seth Owusu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28173v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "MATH, ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28173v1 Announce Type: cross  Abstract: Large Language Models (LLMs) depend fundamentally on the diversity, depth, and factual rigor of their pre-training corpora. However, contemporary foundational pre-training datasets (such as The Pile, S2ORC, and Dolma) exhibit a s"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28176v1",
+      "title": "Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs",
+      "authors": [
+        "Jiapu Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28176v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28176v1 Announce Type: cross  Abstract: Large Language Models (LLMs) often struggle with temporally grounded reasoning because their static parametric memory is misaligned with the dynamic evolution of real-world knowledge. Although RAG and Parameter-Efficient Fine-Tun"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28192v1",
+      "title": "Offline Makes Online Better: Calibrated Cache Compression for Video Generation",
+      "authors": [
+        "Zhen Wang, Ning Lai, Qingtao Yu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28192v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28192v1 Announce Type: cross  Abstract: Token merging is an effective approach to reducing KV-cache memory consumption in autoregressive video generation by clustering temporally redundant tokens and retaining only a small set of representatives. Existing methods, howe"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28197v1",
+      "title": "Reframing Object-Centric Reinforcement Learning: From Absolute to Relative Representations",
+      "authors": [
+        "Cedric Derstroff, Jannis Bl\\\"uml, Janosch Moos, Michael Girstl, Zihan Ye, Debora Clever, Kristian Kersting"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28197v1",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28197v1 Announce Type: cross  Abstract: Object-centric reinforcement learning agents typically receive each object's position in a fixed global frame, even though their decisions usually depend on where objects are relative to one another. These absolute views often fa"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28200v1",
+      "title": "Parameter-Efficient Adaptation of Time Series Foundation Models for Electrical Load Forecasting",
+      "authors": [
+        "Aliullah, Julian Oelhaf, Edouard Fouch\\'e, Jessica Deuschel, Christian Bergler, Andreas Maier, Siming Bayer"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28200v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28200v1 Announce Type: cross  Abstract: Accurate electrical load forecasting supports power-system operation across countries, regions, cities, and buildings, but repeated development of target-specific models is costly. Time series foundation models (TSFMs) provide re"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28280v1",
+      "title": "GALA: Geometry-Aware Language Model for Controllable Object Arrangement",
+      "authors": [
+        "Chucheng Xiang, Runze Wang, Zhi Deng, Ruchao Bao, Yuanwei Zhang, Yuxuan Xie, Hanliu Wang, Liangzhen Fei, Wenzheng Wu, Cheng Wan, Peifeng Li, Zhongyuan Liu, Ligang Liu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28280v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28280v1 Announce Type: cross  Abstract: Reasoning about fine-grained placement constraints, such as support and containment, is essential for realistic 3D scene creation. It remains a significant challenge for existing methods that rely on simplified object representat"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28316v1",
+      "title": "ABACUS: A Benchmark for Image Editing Models to Assess Object Category and Counting Under Scene Conservation",
+      "authors": [
+        "Aymen Lassoued, Angelique Loesch, Romaric Audigier"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28316v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28316v1 Announce Type: cross  Abstract: Instruction-based image editing models can now add, remove a specified number of objects or change their category while preserving the scene. Yet these models often fail to produce the correct number, and these failures grow shar"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28350v1",
+      "title": "Gated Prototype Transfer for Zero-Support Medical Vision Language Model",
+      "authors": [
+        "Sumaiya Fazal, Rizwan Qureshi, Laleh Behjat, Samira Ebrahimi Kahou"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28350v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/sumaiyaafridi/GProtoT",
+      "tldr_summary": "arXiv:2610.28350v1 Announce Type: cross  Abstract: Realistic few-shot adaptation of medical vision-language models (VLMs) can leave low-prevalence classes without any labeled support. The training-free SS- Text+ solver remains operational in this setting, but its zero-support pro"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28364v1",
+      "title": "Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG",
+      "authors": [
+        "Abhishek Rai"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28364v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28364v1 Announce Type: cross  Abstract: Local Retrieval-Augmented Generation (RAG) systems are vulnerable to indirect prompt injection and retrieval poisoning, where malicious instructions in retrieved content are mistaken for trusted input. We present nokast-secureRAG"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28369v1",
+      "title": "Don't Skip the Baseline: A Controlled Comparison of Dynamic Expert Skipping in MoEs",
+      "authors": [
+        "Jakob Steimle, Thomas Elsken, Daniel Ehrhardt, Lukas Rinder, Daniel Cremers, Xi Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28369v1",
+      "is_breakthrough": true,
+      "architecture_type": "Mixture of Experts (MoE)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28369v1 Announce Type: cross  Abstract: A growing body of work proposes dynamic expert-skipping methods for Mixture-of-Experts (MoE) models that adjust the number of experts activated per token during inference, aiming to preserve model quality while further reducing t"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28409v1",
+      "title": "Rewards for Budget-Aware Multi-Turn Agents That Adapt to Arbitrary Test-Time Constraints",
+      "authors": [
+        "Tom A. Lamb, Adam Golinski, Eleonora Gualdoni, Sinead Williamson, Michael Kirchhof"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28409v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28409v1 Announce Type: cross  Abstract: Large language model agents are often given an inference budget and asked to maximise success within it. A multi-turn agent has to allocate this budget across many environment interactions."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28411v1",
+      "title": "Brain2Vec: A Self-Supervised 3D Foundation Model for Structural Brain MRI",
+      "authors": [
+        "Spiros Maggioros, Guray Erus, Gareth Harman, George Aidinis, Alexander Getka, Aristeidis Sotiras, Christos Davatzikos"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28411v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/CBICA/Brain2Vec",
+      "tldr_summary": "arXiv:2610.28411v1 Announce Type: cross  Abstract: Deep learning models have become essential tools in medical imaging, yet training them end-to-end for diverse tasks remains challenging due to limited labeled data and computational constraints. To address this, we introduce Brai"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28419v1",
+      "title": "DISTRACT: Degradation-Indexed Study of Textual Reference Across Competing Targets",
+      "authors": [
+        "Dan Zlotnikov, Ohad Ben-Shahar"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28419v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28419v1 Announce Type: cross  Abstract: Vision-language trackers (VLTs) accept descriptions intended to assist tracking, but accepting text does not establish that its content changes tracking decisions, particularly as visual evidence deteriorates. We introduce DISTRA"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28423v1",
+      "title": "WorldSR: Harnessing World Knowledge Search for Grounded Image Super-Resolution",
+      "authors": [
+        "Junyuan Deng, Xinyi Wu, Zhenyao Wu, Song Wang, Yu Wang, Congchao Zhu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28423v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28423v1 Announce Type: cross  Abstract: Generative-prior-based super-resolution (SR) methods leverage implicit knowledge learned from large-scale models to enhance low-resolution inputs. However, such priors are inherently stochastic and optimized for diverse generatio"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28430v1",
+      "title": "A Digital Twin to Improve Cyber-Social Impact",
+      "authors": [
+        "Vita Santa Barletta, Danilo Caivano, Gabriel Cellammare, Andrea Dimauro, Pasquale Mesagna, Massimiliano Morga"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28430v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28430v1 Announce Type: cross  Abstract: The increasing complexity of Industrial Control Systems (ICS) and their integration with IT infrastructures has significantly expanded the cyber threat landscape. Traditional cybersecurity models, primarily based on the Confident"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28431v1",
+      "title": "Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future",
+      "authors": [
+        "Zhuohao Li, Jiawei He, Yuxuan Yan, Lang Zhou, Yinghao Li, Yanrui Li, Tianyu Zhang, Yi-Yang Song, Xirui Wu andYi-Lin Wei, Fating Hong, Qing Zhang, Zhilin Zhao, Jingdong Wang, Wei-Shi Zheng"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28431v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28431v1 Announce Type: cross  Abstract: World-Action Models (WAMs) have emerged as a promising paradigm for embodied generalist policies by jointly modeling future world evolution and robot actions across diverse manipulation tasks. However, representing diverse future"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28495v1",
+      "title": "Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks",
+      "authors": [
+        "Erik Stolt, Sanja Karilanova, Ayca Ozcelikkale"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28495v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28495v1 Announce Type: cross  Abstract: Deep State-Space Models (Deep SSMs) have shown promising performance and computational benefits in processing of time-series data with complex temporal dependencies. Spiking neural networks (SNNs) constitute a biologically inspir"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28500v1",
+      "title": "BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models",
+      "authors": [
+        "Ning Zhang, Shihao Wang, Jinrui Zhang, Chaodong Xiao, Lei Zhang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28500v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/PolyU-VCLab/BitMTP",
+      "tldr_summary": "arXiv:2610.28500v1 Announce Type: cross  Abstract: For efficient deployment of large language models (LLMs), methods of ultra-low-bit backbones reduce weight storage, memory traffic, and linear-layer execution cost, while multi-token prediction (MTP) methods reduce sequential dec"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28543v1",
+      "title": "Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks",
+      "authors": [
+        "Rodrigo Casado Noguerales, Dimitri von R\\\"utte, Bernhard Sch\\\"olkopf, Thomas Hofmann, Aran Raoufi"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28543v1",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "MATH, ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28543v1 Announce Type: cross  Abstract: Discrete diffusion models iteratively denoise a noisy sequence of categorical data such as text, enabling any-order generation with self-correction and in-filling capabilities. This makes them promising candidates for reasoning, "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28559v1",
+      "title": "Large Flow Language Models",
+      "authors": [
+        "Arnav Chavan, Chanhyuk Lee, Udbhav Bamba, Jaehoon Yoo, Seunghoon Hong, Aditi Raghunathan, Jinwoo Kim"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28559v1",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28559v1 Announce Type: cross  Abstract: Continuous flow language models offer a path to parallel generation with tools for control and acceleration unavailable to discrete diffusion, yet effective techniques for building them at the billion-parameter scale remain less "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28579v1",
+      "title": "Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics",
+      "authors": [
+        "Azim Dehghani Amirabad, Ali Khodabandeh Yalabadi, Artem Moskalev, Yun-Ching Chen, Mehdi Pirooznia, Scott Oloff, Rui Liao"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28579v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28579v1 Announce Type: cross  Abstract: Cellular states are shaped by both intrinsic gene expression programs and the spatial microenvironment in which cells reside. Spatial transcriptomics makes this context measurable, but effective representation learning requires c"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28586v1",
+      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+      "authors": [
+        "Shu Zhao, Tan Yu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28586v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28586v1 Announce Type: cross  Abstract: Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its trajector"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28602v1",
+      "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
+      "authors": [
+        "Vasilii Feofanov, Zhenghan Tai, Andrei Ermakov, Irina Rish"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28602v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28602v1 Announce Type: cross  Abstract: TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by linear probing."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28622v1",
+      "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+      "authors": [
+        "Yanbo Wang, Siqi Luo, Siyu Zhang, Chenming Zhu, Wenzhao Zheng, Qian Yu, Juncheng Yan, Bin Fu, Tai Wang, Yu Qiao, Yihao Liu, Jiwen Lu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28622v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28622v1 Announce Type: cross  Abstract: Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexp"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.28626v1",
+      "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+      "authors": [
+        "Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao, Carl Qi, Baichuan Huang, Srinath Sridhar, Dylan Randle, Lillian J. Ratliff, Jose Barreiros, Manikantan Nambi, Jeroen Vanbaar"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.28626v1",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.28626v1 Announce Type: cross  Abstract: Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2507.21035v4",
+      "title": "GenoMAS: Guided Multi-Agent Programming for Scientific Discovery from Genomic Data",
+      "authors": [
+        "Haoyang Liu, Yijiang Li, Haohan Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2507.21035v4",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2507.21035v4 Announce Type: replace  Abstract: Gene expression analysis holds the key to many biomedical discoveries, yet extracting insights from raw transcriptomic data remains challenging due to the complexity of multiple large, semi-structured files and the need for ext"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2508.11850v3",
+      "title": "LLM-Guided Evolution of Symbolic Acceleration Inequality Families for MILP",
+      "authors": [
+        "Milad Yazdani, Mahdi Mostajabdaveh, Samin Aref, Zirui Zhou"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2508.11850v3",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "MATH",
+      "has_github_repo": true,
+      "github_url": "https://github.com/milad1378yz/sage",
+      "tldr_summary": "arXiv:2508.11850v3 Announce Type: replace  Abstract: Integer programming (IP) is central to many combinatorial optimization tasks but remains challenging due to its NP-hard nature. A practical way to improve IP solvers is to manually design inequality families that exploit proble"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2508.20784v3",
+      "title": "Single Agent Robust Deep Reinforcement Learning for Bus Fleet Control",
+      "authors": [
+        "Yifan Zhang, Liang Zheng, Qifan Zhang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2508.20784v3",
+      "is_breakthrough": true,
+      "architecture_type": "State Space Model (SSM/Mamba)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2508.20784v3 Announce Type: replace  Abstract: Bus bunching remains a challenge for urban transit due to stochastic traffic and passenger demand. Traditional solutions rely on multi-agent reinforcement learning (MARL) in loop-line settings, which overlook realistic operatio"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2509.22407v3",
+      "title": "EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model",
+      "authors": [
+        "Zhehao Dong, Xiaofeng Wang, Zheng Zhu, Yirui Wang, Yang Wang, Yukun Zhou, Boyuan Wang, Chaojun Ni, Runqi Ouyang, Wenkang Qin, Xinze Chen, Yun Ye, Guan Huang, Zhen Lu, Yue Yang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2509.22407v3",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2509.22407v3 Announce Type: replace  Abstract: The generalization of vision-language-action (VLA) models heavily relies on diverse training data. However, acquiring large-scale robot manipulation data across varied object appearances is costly and labor-intensive."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2510.07073v2",
+      "title": "VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems",
+      "authors": [
+        "Andr\\'e Hottung, Federico Berto, Chuanbo Hua, Nayeli Gast Zepeda, Daniel Wetzel, Michael R\\\"omer, Haoran Ye, Davide Zago, Michael Poli, Stefano Massaroli, Jinkyoo Park, Kevin Tierney"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2510.07073v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2510.07073v2 Announce Type: replace  Abstract: Designing high-performing heuristics for vehicle routing problems (VRPs) is a complex task that requires both intuition and deep domain knowledge. Large language model (LLM)-based code generation has recently shown promise acro"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2602.02589v2",
+      "title": "Agents-as-Peers: Bias-Controlled LLM Evaluation as Multi-Agent Peer Assessment",
+      "authors": [
+        "Yanki Margalit, Nurit Cohen-Inger, Erni Avram, Ran Taig, Seffi Cohen, Oded Margalit"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2602.02589v2",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "GSM8K",
+      "has_github_repo": true,
+      "github_url": "https://github.com/caura-ai/caura-PeerRank",
+      "tldr_summary": "arXiv:2602.02589v2 Announce Type: replace  Abstract: Large language model (LLM) evaluation commonly relies on fixed human-authored benchmarks or centralized human/model judges. Fixed benchmarks can age and enter model training corpora, while centralized judges introduce their own"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2602.14622v3",
+      "title": "Tabular Foundation Models Can Learn Association Rules",
+      "authors": [
+        "Erkan Karabulut, Daniel Daza, Paul Groth, Martijn C. Schut, Victoria Degeler"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2602.14622v3",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/DiTEC-project/tabprobe",
+      "tldr_summary": "arXiv:2602.14622v3 Announce Type: replace  Abstract: Association Rule Mining (ARM) is a fundamental task for knowledge discovery in tabular data and is widely used in high-stakes decision-making. Classical ARM methods rely on frequent itemset mining, leading to rule explosion and"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2605.12682v2",
+      "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+      "authors": [
+        "Alina Hyk, Sandhya Saisubramanian"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2605.12682v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2605.12682v2 Announce Type: replace  Abstract: Large language models (LLMs) are increasingly used as reasoning modules in many applications, yet they often struggle to produce human-aligned decisions. Human-aligned decision-making requires accounting for both explicitly sta"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2606.07000v2",
+      "title": "Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization",
+      "authors": [
+        "Shizhe Xiang, Ke An, Wenlong Yu, Yue Liu, Tingting Wu, Jian Luan, Pei Fu, Qilong Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2606.07000v2",
+      "is_breakthrough": true,
+      "architecture_type": "Reinforcement Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2606.07000v2 Announce Type: replace  Abstract: Recent post-training methods, particularly Reinforcement Learning with Verifiable Rewards (RLVR), have significantly enhanced the reasoning ability of Large Vision-Language Models (LVLMs). However, the sparse nature of verifiab"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2607.22375v2",
+      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
+      "authors": [
+        "Varun Gumma, Navonil Majumder, Soumitra Sinhahajari, Soujanya Poria"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2607.22375v2",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/declare-lab/IDEAgent",
+      "tldr_summary": "arXiv:2607.22375v2 Announce Type: replace  Abstract: Large Language Models (LLMs) have significantly advanced the automation of scientific discovery. However, existing systems share a core limitation: they optimize ideas independently for either Quality or Diversity."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2607.22854v2",
+      "title": "Coordinated Networking for On-Device Agent-Augmented Real-Time Communication",
+      "authors": [
+        "Goodsol Lee, Juheon Yi, Jinglu Wang, Haowen Xu, Saewoong Bahk, Yan Lu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2607.22854v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2607.22854v2 Announce Type: replace  Abstract: AI agents are enabling a new paradigm of agent-augmented real-time communication (RTC), where humans focus on high-level collaboration, while agents autonomously retrieve, analyze, and generate information in real time to suppo"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2607.28050v2",
+      "title": "IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD",
+      "authors": [
+        "Nianchen Deng, Jiaxin Ai, Tao Hu, Shu Zou, Yurui Dong, Siqi Li, Xinyu Cai, Xuemeng Yang, Licheng Wen, Hongbin Zhou, Hairong Zhang, Pinlong Cai, Botian Shi"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2607.28050v2",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2607.28050v2 Announce Type: replace  Abstract: Automating industrial CAD design and manufacturing places distinctive demands on multimodal foundation models: the model must see engineering drawings and 3D geometry screenshots, write correct parametric-modelling scripts and "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2609.34575v2",
+      "title": "Diffusion Subgoal Planning for Long-Horizon Offline Goal-Conditioned Reinforcement Learning",
+      "authors": [
+        "Hengrui Zhang, Yuhu Cheng, C. L. Philip Chen, Xuesong Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2609.34575v2",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2609.34575v2 Announce Type: replace  Abstract: Offline goal-conditioned reinforcement learning (GCRL) learns goal-directed policies from reward-free data, but in long-horizon tasks, goal-conditioned value functions often provide unstable guidance due to sparse rewards and d"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2609.35694v3",
+      "title": "Reasoning with Continuous Latent Diffusion",
+      "authors": [
+        "Xiang Cheng"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2609.35694v3",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "HumanEval, GSM8K, MATH",
+      "has_github_repo": true,
+      "github_url": "https://github.com/chengxiang/CEDR",
+      "tldr_summary": "arXiv:2609.35694v3 Announce Type: replace  Abstract: We introduce the Continuous Embedding Diffusion Reasoner (CEDR), a training and inference pipeline for continuous latent diffusion models that achieves strong performance on mathematical reasoning and code generation. We learn "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.16975v3",
+      "title": "MADDIE: Multi-Agent Drug Discovery Engine",
+      "authors": [
+        "Ye Liu, Reza Averly, Avery Meyer, Frazier N. Baker, Ruoxi Gao, Daniel Adu-Ampratwum, Xia Ning"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.16975v3",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/ninglab/MADDIE",
+      "tldr_summary": "arXiv:2610.16975v3 Announce Type: replace  Abstract: Drug discovery remains a resource-intensive and time-consuming process, involving billions of dollars and a decade of development to advance a drug to market. While many in silico tools have accelerated this process, operating "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.20022v2",
+      "title": "Memorizing Who, Knowing How: Benchmarking Personal and Procedural Memory for Persistent Assistants",
+      "authors": [
+        "Maosheng Qin, Qi Zhang, Mingxuan Xia, Jinglei Chen, Jiexiang Wang, Sheng Guo, Cheng Peng, Haobo Wang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.20022v2",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/QMMMS/PraxisMemBench",
+      "tldr_summary": "arXiv:2610.20022v2 Announce Type: replace  Abstract: Memory systems for persistent personal agents must move beyond isolated memories, maintaining both personal memory about whom they serve and procedural memory about how to act. Crucially, in harness-based personal assistance, p"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.23722v2",
+      "title": "Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability",
+      "authors": [
+        "Qingshi Wang, Huiqi Tong"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.23722v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.23722v2 Announce Type: replace  Abstract: Understanding and simulating how subjective cognition and mental states emerge, evolve, and shape behavior is essential for advancing artificial intelligence toward deeper social cognition and general intelligence. Existing lar"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.24264v2",
+      "title": "AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment",
+      "authors": [
+        "Eric Zhang, Terry Jingchen Zhang, Chijioke Ugwuanyi, Jerick Shi, Bernhard Sch\\\"olkopf, Zhijing Jin"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.24264v2",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/AI4Collaboration/Agentic-Misalignment-Bench",
+      "tldr_summary": "arXiv:2610.24264v2 Announce Type: replace  Abstract: As LLM-based agents are deployed with increasing autonomy in real-world environments, a critical failure mode emerges: agentic misalignment, where agents choose harmful actions over failure. However, existing safety benchmarks "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.25043v3",
+      "title": "VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse",
+      "authors": [
+        "Sicheng He, Yi Pan, Qiuting Yu, Jiaming Huang, Qi Lu, Shuyan Wu, Hongyan Feng, Xuanyu Liu, Jun Zhang, Jie Zhang, Wenqi Zhang, Xuhong Zhang, Jianwei Yin"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.25043v3",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.25043v3 Announce Type: replace  Abstract: Flow-matching vision-language-action (VLA) models generate an action chunk by iteratively denoising Gaussian noise, but typically execute only a short prefix before replanning with updated observations. Under this receding-hori"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26342v2",
+      "title": "VibeTraining-Bench: Data-Trainer-Harness Co-Design for Iterative System Improvement",
+      "authors": [
+        "Ruotian Peng, Yuanyi Ren, Shuaiqi Liu, Xin Guo, Fang Zhu, Yangyi Huang, Yue Wu, Zheng Wang, Yandong Wen, Zhihang Fu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26342v2",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "MATH, SWE-bench, ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/D2I-ai/VibeTraining-Bench",
+      "tldr_summary": "arXiv:2610.26342v2 Announce Type: replace  Abstract: Recursive self-improvement (RSI) requires agents to diagnose system bottlenecks and coordinate improvements across training and inference. We refer to the agents' capability to jointly optimize training data, the trainer, and t"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.26650v2",
+      "title": "From Outcomes to Components: A Counterfactual Evaluation Framework for LLM-Proposed Repairs",
+      "authors": [
+        "Hengyu Ye, Songhua Hu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.26650v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.26650v2 Announce Type: replace  Abstract: A repair action proposed by a large language model (LLM) specifies which records to change and how to change their values. A failed action may still contain a useful choice of records or a useful update, depending on how the tw"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2303.15619v3",
+      "title": "Typhoon: Gradient-Based Task-Specific Masking for Masked Language Models",
+      "authors": [
+        "Bruce Changlong Xu, Muhammed Shahir Abdurrahman, Hashem Elezabi"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2303.15619v3",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2303.15619v3 Announce Type: replace-cross  Abstract: The choice of which tokens to mask is an under-examined design decision in masked language modeling (MLM). Standard pretraining masks tokens uniformly at random, whereas content-aware masking schemes can improve downstrea"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2310.14421v5",
+      "title": "Entropic perspective on AI resilience, data-minimal learning and optimal control",
+      "authors": [
+        "Illia Horenko"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2310.14421v5",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "MATH, ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2310.14421v5 Announce Type: replace-cross  Abstract: Behind the general terms like adversarial attacks and generative adversarial networks (GANs), such criteria as AI resilience and AI robustness gained a crucial importance, in trying to make the emergent AI tools reliable,"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2408.16030v3",
+      "title": "Deep learning-based multi-level airway collapse site localization on obstructive sleep apnea patients based on snoring sounds",
+      "authors": [
+        "Ying-Chieh Hsu, Stanley Yung-Chuan Liu, Chao-Jung Huang, Chi-Wei Wu, Ren-Kai Cheng, Jane Yung-Jen Hsu, Shang-Ran Huang, Yuan-Ren Cheng, Fu-Shun Hsu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2408.16030v3",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2408.16030v3 Announce Type: replace-cross  Abstract: Objective This study evaluated deep learning models, specifically ResNet-50 and Audio Spectrogram Transformer (AST), to identify multi-level upper airway collapses in obstructive sleep apnea (OSA) patients using snoring s"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2503.18462v2",
+      "title": "PALATE: Peculiar Application of the Law of Total Expectation to Enhance the Evaluation of Deep Generative Models",
+      "authors": [
+        "Tadeusz Dziarmaga, Marcin K\\k{a}dzio{\\l}ka, Laura Musio{\\l}, Patryk Marsza{\\l}ek, Artur Kasymov, Piotr Ko\\'scielniak, Marcin Mazur"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2503.18462v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2503.18462v2 Announce Type: replace-cross  Abstract: Deep generative models (DGMs) have caused a paradigm shift in the field of machine learning, yielding noteworthy advancements in domains such as image synthesis, natural language processing, and other related areas. Howev"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2508.20976v2",
+      "title": "WoW-Bench: Evaluating Fine-Grained Acoustic Perception in Audio-Language Models via Marine Mammal Vocalizations",
+      "authors": [
+        "Jaeyeon Kim, Heeseung Yun, Sang Hoon Woo, Chao-Han Huck Yang, Gunhee Kim"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2508.20976v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2508.20976v2 Announce Type: replace-cross  Abstract: Large audio-language models (LALMs) extend language understanding into the auditory domain, yet their ability to perform low-level listening, such as pitch and duration detection, remains underexplored. However, low-level"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2510.03223v3",
+      "title": "Attention-Aligned Reasoning for Large Language Models",
+      "authors": [
+        "Hongxiang Zhang, Yuan Tian, Tianyi Zhang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2510.03223v3",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2510.03223v3 Announce Type: replace-cross  Abstract: Large Language Models (LLMs) tend to generate a long reasoning chain when solving complex tasks. However, as the reasoning chain extends, critical intermediate steps and the original prompt will be buried in the context, "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2511.16084v4",
+      "title": "SpectralTrain: A Universal Framework for Hyperspectral Image Classification",
+      "authors": [
+        "Meihua Zhou, Liping Yu, Xinyu Tong, Wai Kin Fung, Ruiguo Hu, Jiarui Zhao, Nan Wan"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2511.16084v4",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/mh-zhou/SpectralTrain",
+      "tldr_summary": "arXiv:2511.16084v4 Announce Type: replace-cross  Abstract: Hyperspectral image (HSI) classification typically involves large-scale data and computationally intensive training, which limits the practical deployment of deep learning models in real-world remote sensing tasks. This s"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2601.22628v3",
+      "title": "TTCS: Test-Time Curriculum Synthesis for Self-Evolving",
+      "authors": [
+        "Chengyi Yang, Zhishang Xiang, Yunbo Tang, Zongpei Teng, Chengsong Huang, Fei Long, Yuhan Liu, Jinsong Su"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2601.22628v3",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "MATH",
+      "has_github_repo": true,
+      "github_url": "https://github.com/XMUDeepLIT/TTCS",
+      "tldr_summary": "arXiv:2601.22628v3 Announce Type: replace-cross  Abstract: Test-Time Training offers a promising way to improve the reasoning ability of large language models (LLMs) by adapting the model using only the test questions. However, existing methods struggle with difficult reasoning p"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2603.00889v2",
+      "title": "CHIMERA: Compact Synthetic Data for Generalizable LLM Reasoning",
+      "authors": [
+        "Xinyu Zhu, Yihao Feng, Yanchao Sun, Xianzhi Du, Pingzhi Li, Olli Saarikivi, Yun Zhu, Yu Meng"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2603.00889v2",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "MATH, ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2603.00889v2 Announce Type: replace-cross  Abstract: Large Language Models (LLMs) have exhibited remarkable reasoning capabilities, largely enabled by supervised fine-tuning (SFT)- and reinforcement learning (RL)-based post-training on high-quality reasoning data. However, "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2603.17372v3",
+      "title": "Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift",
+      "authors": [
+        "Zhihua Wei, Qiang Li, Jian Ruan, Zhenxin Qin, Leilei Wen, Ruiyang Qin, Qingzhuo Wang, Dongrui Liu, Wen Shen"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2603.17372v3",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/LeeQueue513/JRS-Rem",
+      "tldr_summary": "arXiv:2603.17372v3 Announce Type: replace-cross  Abstract: Large vision-language models (VLMs) often exhibit weakened safety alignment with the integration of the visual modality. Even when text prompts contain explicit harmful intent, adding an image can substantially increase j"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2603.17651v2",
+      "title": "Anchoring and Rescaling Attention for Semantically Coherent Inbetweening",
+      "authors": [
+        "Tae Eun Choi, Sumin Shim, Junhyeok Kim, Seong Jae Hwang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2603.17651v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2603.17651v2 Announce Type: replace-cross  Abstract: Generative inbetweening (GI) seeks to synthesize realistic intermediate frames between the first and last keyframes beyond mere interpolation. As sequences become sparser and motions larger, previous GI models struggle wi"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2605.10641v2",
+      "title": "LLaVA-CKD: Bottom-Up Cascaded Knowledge Distillation for Vision-Language Models",
+      "authors": [
+        "Nikolaos Gkalelis, Vasileios Mezaris"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2605.10641v2",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/IDT-ITI/LLaVA-CKD",
+      "tldr_summary": "arXiv:2605.10641v2 Announce Type: replace-cross  Abstract: Large Vision-Language Models (VLMs) are successful in addressing a multitude of vision-language understanding tasks, such as Visual Question Answering (VQA), but their memory and compute requirements remain a concern for "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2605.10765v2",
+      "title": "Dynamic Cross-Modal Prompt Generation for Multimodal Continual Instruction Tuning",
+      "authors": [
+        "Tao Hu, Da-Wei Zhou"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2605.10765v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/LAMDA-CL/NeurIPS2026-Drape",
+      "tldr_summary": "arXiv:2605.10765v2 Announce Type: replace-cross  Abstract: Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, yet real-world deployment often requires continual capability expansion across sequential tasks. In such scenarios, Multimoda"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2605.18904v2",
+      "title": "Dynamic Model Merging Made Slim",
+      "authors": [
+        "Guodong Du, Wanyu Lin"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2605.18904v2",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/WanyuGroup/NeurIPS2026-DiDi-Merging",
+      "tldr_summary": "arXiv:2605.18904v2 Announce Type: replace-cross  Abstract: Model merging consolidates independently fine-tuned checkpoints without joint training or access to task data. Dynamic methods retain task-specific capacity, but must divide a limited storage budget between shared and exp"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2605.20708v4",
+      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
+      "authors": [
+        "Chao Xu, Maohua Li, Qirui Li, Yixuan Xu, Yanke Zhou, Yunhe Li, Cuifeng Shen, Hanlin Tang, Kan Liu, Tao Lan, Lin Qu, Shao-Qun Zhang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2605.20708v4",
+      "is_breakthrough": false,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "ImageNet",
+      "has_github_repo": true,
+      "github_url": "https://github.com/cg233666/attention-residuals-on-dit",
+      "tldr_summary": "arXiv:2605.20708v4 Announce Type: replace-cross  Abstract: Diffusion Transformers (DiTs) have become a de facto backbone of modern visual generation, and nearly every major axis of their design -- tokenization, attention, conditioning, objectives, and latent autoencoders -- has b"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2605.21187v2",
+      "title": "NVIDIA Spectrum-X: Hardware-Accelerated Multiplane Networking for Large-Scale AI Training",
+      "authors": [
+        "Sajy Khashab, Albert Gran Alcoz, Alon Gal, Jacky Romano, Rani Abboud, Yonatan Piasetzky, Lior Maman, Amit Nishry, Barak Gafni, Omer Shabtai, Matty Kadosh, Dror Goldenberg, Gilad Shainer, Mark Silberstein"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2605.21187v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2605.21187v2 Announce Type: replace-cross  Abstract: As distributed model training scales to span hundreds of thousands of GPUs, scale-out networks face unprecedented performance and efficiency demands. NVIDIA Spectrum-X Ethernet has been designed from the ground up to achi"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2606.22113v2",
+      "title": "KITE: Decoupling Kinematics and Interaction for Zero-Shot Cross-Embodiment Manipulation",
+      "authors": [
+        "Qianxu Wang, Shengmiao Samuel Jin, Kuan Fang"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2606.22113v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2606.22113v2 Announce Type: replace-cross  Abstract: Generalizing manipulation policies across robot embodiments remains difficult because standard policies tie the interactions needed for a task to the actions of a particular robot. We study zero-shot cross-embodiment mani"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2606.25034v3",
+      "title": "Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety",
+      "authors": [
+        "Shikai Qiu, Xiaowen Xu, Benlei Cui, Ting Ma, Xiufeng Huang, Wenjing Jiang, Shaoxuan He, Haolei Xu, Chunyang Chai, Yujian Li, Yiliang Zhang, Guanghui Wang, Ziheng Wang, Ziwen Xu, Zhaoyu Fan, Jinhao Chen, Ruijie Jian, Hongxing Li, Chuxi Xiao, Xinyue Chen, Wenxuan Liu, Libin Dong, Yupeng Cao, Xiaoqian Xia, Jing Wang, Zhe Jiang, Zhenan Ye, Guang Yang, Bin Liu, Wei Peng, Ziqiang Zhu, Meihui Lian, Kaiwen Lv Kacuila, Haidong Ding, Dongjie Zhang, Yangfan Zhou, Bingyu Zhu, Yan Wang, Hai Zhao, Xuan Jin, Wei Zhao, Pengfei Sun, Huiming Zhang, Wei Wang, Xipeng Cao, Jialun Chen, Xiao Chen, Shaola Ren, Yunqing Hu, Bin Li, Chengwen Yao, Meng Huang, Xianfeng Li, Bin Tang, Chao Liu, Hui Xue, Longtao Huang, Haiwen Hong"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2606.25034v3",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2606.25034v3 Announce Type: replace-cross  Abstract: General-purpose models often struggle to reliably identify and understand real-world multimodal risks, largely due to the inherent multimodal adversarial nature of content and AI safety. We present Yuvion VL, a family of "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2607.03929v2",
+      "title": "Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG",
+      "authors": [
+        "Mykhailo Poliakov, Nadiya Shvai"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2607.03929v2",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/mxpoliakov/Multi-Meta-RAG",
+      "tldr_summary": "arXiv:2607.03929v2 Announce Type: replace-cross  Abstract: Multi-Meta-RAG improves retrieval for multi-hop question answering by filtering a vector store on metadata, specifically the news source and the publication date, which it extracts from each query using GPT-3.5. This extr"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2608.19085v3",
+      "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+      "authors": [
+        "Ruiguo Zhong, Xiaolong Chen, Benshan Ma, Lang Zhang, Mingyue Feng, Yaonong Wang, Pei Liu, Jun Ma"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2608.19085v3",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2608.19085v3 Announce Type: replace-cross  Abstract: World models for autonomous driving should anticipate the consequences that matter for driving decisions rather than reconstruct every detail of future scenes. However, predictive representations alone are not guaranteed "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2609.26039v2",
+      "title": "EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion",
+      "authors": [
+        "Ilias Mitsouras, Nikolaos Chaidos, Giorgos Stamou, Athanasios Voulodimos"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2609.26039v2",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2609.26039v2 Announce Type: replace-cross  Abstract: Point cloud generation has emerged as a crucial task for accurately capturing and reproducing the complexity of the physical world. However, existing generative approaches, predominantly relying on Transformers and Variat"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2609.35954v2",
+      "title": "ROSS: Relearning from Self-Generated Rollouts through Selective Supervision",
+      "authors": [
+        "Zhiwei Zhang, Huayu Deng, Fei Zhao, Jiayan Fu, Bin Liang, Kam-Fai Wong, Mu Chuan"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2609.35954v2",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "MATH, SWE-bench",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2609.35954v2 Announce Type: replace-cross  Abstract: Large language model post-training generates self-generated rollouts through reinforcement learning and on-policy distillation, yet this experience is often treated as stale once the policy advances. Historical rollouts c"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2609.38578v3",
+      "title": "Retargeting Motions to Diverse Skeletons via Learnable Flattening",
+      "authors": [
+        "Kia-J\\\"ung Yang, Fabian H. Sinz, Pawe{\\l} A. Pierzchlewicz"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2609.38578v3",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2609.38578v3 Announce Type: replace-cross  Abstract: Cross-structural motion retargeting aims to transfer motion between different skeletal topologies. Despite recent progress, existing state-of-the-art models struggle with reliability in zero-shot settings, i.e."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.02198v2",
+      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+      "authors": [
+        "Sebastian Sanokowski, Alireza Sarmadi, Majid Khadiv"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.02198v2",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.02198v2 Announce Type: replace-cross  Abstract: Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.03759v3",
+      "title": "BridgeCast: Bridging Ocean Wave Forecasts to Reanalysis via Flow Matching with Exogenous Variables",
+      "authors": [
+        "Siyu Gan, Dongsheng Luo, Kunxiaojia Yuan, Dongjin Song, Jingchao Ni"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.03759v3",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.03759v3 Announce Type: replace-cross  Abstract: Ocean wave forecasting is essential for maritime safety, offshore operations, and coastal resilience, yet remains challenging due to systematic biases in physics-based models. Physical models, while widely used, rely on a"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.04953v2",
+      "title": "EDISCO: Equivariant DIScrete Diffusion for Euclidean Combinatorial Optimization",
+      "authors": [
+        "Ruogu Chen, Jie Han"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.04953v2",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/ValleyC/EDISCO",
+      "tldr_summary": "arXiv:2610.04953v2 Announce Type: replace-cross  Abstract: Euclidean combinatorial optimization problems (ECOPs), such as the Traveling Salesman Problem (TSP) and Capacitated Vehicle Routing Problem (CVRP), possess inherent symmetries under the two-dimensional Euclidean group E(2"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.10460v2",
+      "title": "Composing What Each Teacher Learned: Delta Distillation for Multi-Teacher On-Policy Learning",
+      "authors": [
+        "Yuanda Xu, Hejian Sang, Zhengze Zhou, Shayan Mohajer Hamidi, Xiaomin Li, Rohit Jain, Alborz Geramifard"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.10460v2",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "MATH",
+      "has_github_repo": true,
+      "github_url": "https://github.com/HJSang/Delta-MOPD",
+      "tldr_summary": "arXiv:2610.10460v2 Announce Type: replace-cross  Abstract: Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single target; in routed-domai"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.17309v2",
+      "title": "StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions",
+      "authors": [
+        "Xialie Zhuang, Zunhai Su, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.17309v2",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/StartLuxLabs/Startlux-Decision",
+      "tldr_summary": "arXiv:2610.17309v2 Announce Type: replace-cross  Abstract: We introduce StartLux-Decision, decision models from 0.8B to 27B parameters that combine efficient single-pass prediction with adaptive, confidence-guided reasoning. The Instant models use bidirectional attention in full-"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.23185v2",
+      "title": "A Stronger Teacher Within: Strengthening MoE Models via On-Policy Bidirectional Distillation",
+      "authors": [
+        "Haoyu Chen, Jun Bai, Yang Liu, Jianfei Zhang, Wenge Rong"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.23185v2",
+      "is_breakthrough": true,
+      "architecture_type": "Mixture of Experts (MoE)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.23185v2 Announce Type: replace-cross  Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has substantially improved Mixture-of-Experts (MoE) LLMs, but its outcome-level rewards provide only sparse supervision. On-Policy Distillation offers dense token-leve"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.24452v2",
+      "title": "HumanSkill-4D: Training-Free Language Querying of Animatable Gaussian Avatars in Space and Time",
+      "authors": [
+        "Junsu Kim, Naeun Kim, Dongyoon Han, Seungryul Baek"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.24452v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.24452v2 Announce Type: replace-cross  Abstract: We introduce avatar referring segmentation, which selects regions of animatable Gaussian avatars from language queries. A query can also specify a pose or motion to select matching intervals."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.24628v2",
+      "title": "Muse Glimmer 30B: An On-Device Agentic Model",
+      "authors": [
+        "Arash Ebrahim Abtahizadeh, Muna Aghamelu, Adil Ahmed, Juan C. Angeles Acuna, Alexis Audran-Reiss, Asaf Avrahamy, Yoram Bachrach, Can Balioglu, Amar Budhiraja, Onur \\c{C}elebi, Gaurav Chaurasia, Joy Chen, Lynn Cherif, Lucia Cipolina-Kun, Gal Cohen, Timoth\\'ee Darcet, Beto de Paola, Digant Desai, Sam Devlin, Derek Dunfield, Ivan Evtimov, Maryam Fazel-Zarandi, Rob Fergus, Jean-Christophe Gagnon-Audet, Grant Gardner, Bhavul Gauri, Paris Giampouras, Sujan Kumar Gonugondla, Antoine Grosnit, Young Han, Michael Hassid, Monuril Islam, Masoud Jalili Sabet, Songhao Jia, Narine Kokhlikyan, Svetlana Kurtsman, Sandra Lefdal, Chee Hau Leow, Noam Levi, Mike Lewis, Sanae Lotfi, Xiyang Luo, Despoina Magka, Saeed Mahloujifar, Neal Mangaokar, Ishita Mediratta, Alexander H. Miller, Hela Momand, Saba Nazir, Kelvin Niu, Mattia Opper, Parth Pathak, Alberto Pepe, Danielle Pintz, Mikhail Plekhanov, Sidhartha Reddy Potu, Anton Protopopov, Shengyi Qian, Shashank Rajput, Joseph Rocca, Scott Roy, Luca Sbordone, Amin Shakeri, Tatiana Shavrina, Michael Shvartsman, Ruan Silva, Anya Sims, Eric Michael Smith, Hugo Touvron, Mabel Ubong, Isabel Urrego, Yanzheng Xiang, Zhiyuan Yao, Alex Yarmula, He Ye, Jade Yu, Luke Zettlemoyer, Arman Zharmagambetov, Perpetua Fathima Ahlijah, Tremo Ahmed, Enrique Alfonseca, Pedram Bashiri, Nikolay Bashlykov, Amine Benhalloum, Aaron Berman, Rohith Bhatia, Siddharth Bhattacharya, Prashant Bhende, Chloe Bi, Shuchao Bi, Clement Anthonioz Blanc, Allen Bolourchi, Iva Simon-Bubalo, Pere-Llu\\'is Huguet Cabot, Andrea Caciolai, Erica Cai, Xiang Tony Cao, Yue Cao, Andrew Caples, Jinzhao Chang, Lele Chen, Moya Chen, Weijie Chen, Wenhu Chen, Xiaobai Chen, Yinyin Chen, Zhengxing Chen, Wei Cheng, Pavel Chikulaev, Edward Chou, Sy Choudhury, Brian Clerkin, Marta R. Costa-juss\\`a, Hanjun Dai, Curtis Davis, Myra Deng, Tiffany Siqi Deng, Dujian Ding, Hantian Ding, Shuangrui Ding, Jesse Dodge, Carl Domond, Shweta Doshi, Shirin Eghtesadi, Faith Eischen, Athyu Eleti, Jordi Armengol-Estape, Alex Fabbri, Han Fang, Paula Farani, Aiman Farooq, Darius Feher, Christoph Feichtenhofer, Amanda Felix, Romain Froger, Carl Chengyan Fu, Sean Gahagan, Yifan Gao, Itai Gat, Jannes Gladrow, Akashdeep Goel, Ahuva Goldstand, Bo He, David Heineman, Dylan Herman, Irene Hjelt, Joonas Hjelt, Alexander Holz, Rui Hou, Annie Hu, Yuan-Ting Hu, Bernie Huang, Jing Huang, Kun Huang, Ashley Hunter, Srinivasan Iyer, Somya Jain, Bei Jia, Michael Jiang, Song Jiang, Wenwen Jiang, Lin Jin, Jacob Kahn, Melanie Kambadur, Yingxin Kang, Justine Kao, Stephane Kasriel, Hossein Kavianihamedani, Madian Khabsa, Ameya Khandekar, Yash Khare, Gefen Kohavi, Kavya Kopparapu, Praveen Krishnan, Venu Kuchibhotla, Ananya Kumar, Leona Lan, Jack Lanchantin, Hunter Lang, Nikolay Pavlovich Laptev, Yuanzhi Li, Yunlu Li, Asad Liaqat, Johnson Lin, Runwei Lin, Zhichao Lin, Shaun Lindsay, Yaron Lipman, Frederick Liu, Mengchen Liu, Qiang Liu, Yinghai Lu, Yujie Lu, Christopher Luc, Faye Ma, Pingchuan Ma, Tengyu Ma, Wufei Ma, Xiaodong Ma, Damir Maksyutov, Josh Malone, Udeep Manchanda, Thomas Mann, Kalyani Marathe, Akhil Mathur, Roberto-Rafael Maura-Rivero, Ruslan Mavlyutov, Thomas Mesnard, Gregoire Mialon, Julian Michael, Sagar Miglani, Todor Mihaylov, Naureen Mitha, Archi Mitra, Leo Mok, Naila Murray, Muthukumaravel Muthuraman, Mergen Nachin, Nese Demir Nalci, Saaketh Narayan, Alyssa Newcomb, Peter Ney, Joycelyn Ng, Devin Norder, Maxwell Nye, Rajvardhan Oak, Cody Ohlsen, Artidoro Pagnoni, Yi Pan, Nilesh Pandey, Guan Pang, Richard Yuanzhe Pang, Mahesh Pasupuleti, Parth Patel, Yash Patel, Vladan Petrovic, Leslie St. Pierre, Norman Ponte, Yundi Qian, Zengyi Qin, Jack Rae, Ramya Raghavendra, Emmanuel Ramirez, Nikhila Ravi, Hongyu Ren, Riandy Riandy, Harrison Rudolph, Kalyan Saladi, Eduardo S\\'anchez, Karthik Abinav Sankararaman, Alan Schelten, Thomas Scialom, Aman Shankar, Paresh Shenoy, Alana Shine, Hamid Shojanazeri, Mitesh Kumar Singh, Pawan Sisodiya, Ali Sol, Sten Sootla, DiJia Su, Suraj Subramanian, Brian Sun, Tony Sun, Zhiqing Sun, Natacha Supper, Jason Talpalar, Ellen Xiaoqing Tan, Liang Tan, Bu\\u{g}ra Tekin, Jean-Christophe Testud, Parth Thakkar, Joseph Tighe, Ty Toledano, T Tse, Igor Tufanov, Alex Vaughan, Josh Walters, Alex Wang, Bethany Wang, Meng Wang, Rocky Wang, Weiyue Wang, Xiaolan Wang, Xin Wang, Zijian Wang, Bram Wasti, Quentin Wellens, Yeming Wen, Mary Williamson, Yuncheng Wu, Fei Xia, Tian Xie, Anlu Xing, David Xu, Jacob Xu, Puxin Xu, Zheng Xu, Shen Yan, Megan Yang, Yining Yang, Nick Yannopoulos, Kevin Yao, Michihiro Yasunaga, Haoxuan You, Michael You, Dingli Yu, Tianhe Yu, Yue Yu, Summer Yue, Xiang Yue, Shuwei Zeng, Hanwen Zha, Chen Zhang, Fred Zhang, Hongming Zhang, Kaiyu Zhang, Meng Zhang, Mingyang Zhang, Yi Zhang, Shengjia Zhao, Chao Zhou, Claire Zhou, Shuyan Zhou, Yanjun Zhou, Yaxuan Zhou, Jiacheng Zhu, Rosalie Zhu, Yun Zhu"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.24628v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.24628v2 Announce Type: replace-cross  Abstract: We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on consumer hardware. Muse Glimmer integrates multi-step reasoning, reliabl"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.25481v2",
+      "title": "Multimodal-Conditioned Latent Diffusion Models for Spatiotemporal Brain MRI Forecasting",
+      "authors": [
+        "Antonio Scardace, Silvia Ingala, Sebastiano Battiato, Daniele Rav\\`i"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.25481v2",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/antonioscardace/MC-LDM",
+      "tldr_summary": "arXiv:2610.25481v2 Announce Type: replace-cross  Abstract: Spatiotemporal forecasting of 3D anatomical changes is a critical generative vision challenge for modeling Alzheimer's Disease (AD) progression. While brain MRI forecasting from single-modality data has advanced, other ke"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.25916v2",
+      "title": "Secure Agentic Coding through Counterexample-Grounded Feedback",
+      "authors": [
+        "Tue Le, Anh Nguyen Hoang, Gabriel Sasseville, Doseok Jang, Pierre-Luc Bacon, Nghi D. Q. Bui"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.25916v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.25916v2 Announce Type: replace-cross  Abstract: As coding models and agent harnesses become more capable, reliable security verification is becoming a central bottleneck. Improving secure code generation requires a signal whose reported progress remains aligned with ac"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2610.25946v2",
+      "title": "Policy Search in Code Space for Multi-Agent Pathfinding",
+      "authors": [
+        "Matthias Eder, Pantelis Emmanouil, Vivek Farias, Fabian Fischer, Adam Jozefiak, Tianyi Peng, Thomas Ulz, Raphael Watschinger, Fangyu Wu, Andrew Zheng"
+      ],
+      "published_date": "Thu, 22 Oct 2026 00:00:00 -0400",
+      "pdf_url": "oai:arXiv.org:2610.25946v2",
+      "is_breakthrough": true,
+      "architecture_type": "Reinforcement Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2610.25946v2 Announce Type: replace-cross  Abstract: Developing coordination policies for complex multi-agent systems relies on either labor-intensive algorithm design or opaque task-specific reinforcement learning. With recent advances in autonomous coding agents, we show "
+    }
+  ]
+}
