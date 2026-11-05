@@ -2,3 +2,577 @@
 > Autonomous intelligence on novel architectures and SOTA benchmark claims.
 
 ## High-Impact Papers
+### BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations
+- **ArXiv ID:** [oai:arXiv.org:2611.05581v1](oai:arXiv.org:2611.05581v1) [[GitHub]](https://github.com/Forainest789/Brainbind)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05581v1 Announce Type: new  Abstract: Real-world vision is dynamic and scene-rich, while EEG and fMRI resolve it at complementary temporal and spatial scales. Most neural decoding systems, however, align one modality in isolation and mostly against static images or sho
+
+### Route to Remember: Adaptive Memory Selection for LLM Agents
+- **ArXiv ID:** [oai:arXiv.org:2611.05636v1](oai:arXiv.org:2611.05636v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05636v1 Announce Type: new  Abstract: The memory of production agents is increasingly becoming a bottleneck and is built almost exclusively from text: key points are extracted from out-of-limit context and retrieved into context at query time. Therefore, every new quer
+
+### Self-Supervised Pretraining for Label-Efficient Facial Expression Recognition using Smart Glasses
+- **ArXiv ID:** [oai:arXiv.org:2611.05711v1](oai:arXiv.org:2611.05711v1)
+- **Architecture:** `Transformer` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05711v1 Announce Type: new  Abstract: Facial Expression Recognition (FER) on optomyographic (OMG) smart glasses such as OCOsense enables privacy-preserving, camera-free affect sensing for health and well-being. Most FER systems are fully supervised, i.e., they rely eit
+
+### PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?
+- **ArXiv ID:** [oai:arXiv.org:2611.05759v1](oai:arXiv.org:2611.05759v1) [[GitHub]](https://github.com/upwork/Payworthy)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05759v1 Announce Type: new  Abstract: Before an AI agent takes on a paid job, someone has to judge whether it is likely to succeed. We test whether frontier language models can make this call before any attempt.
+
+### RECAP: Context-Aware Prediction Recycling with Request-Local and Persistent Memories for Multimodal Speculative Decoding
+- **ArXiv ID:** [oai:arXiv.org:2611.05894v1](oai:arXiv.org:2611.05894v1) [[GitHub]](https://github.com/Senmo996/RECAP-official-code)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05894v1 Announce Type: new  Abstract: Recycling a target model's own predictions offers a training-free source of proposals for speculative decoding. In vision-language models, however, existing recycling indexes predictions by the last token alone, conflating predicti
+
+### CHARM+: Cross-Hardware Attention with Re-Merge Multistream Mechanism
+- **ArXiv ID:** [oai:arXiv.org:2611.05906v1](oai:arXiv.org:2611.05906v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05906v1 Announce Type: new  Abstract: As sequence lengths continue to grow, distributed attention based on sequence parallel (e.g., Ring-Attention) has become a mainstream solution for large language models (LLMs). Nevertheless, inherent communication dependencies limi
+
+### Split-KV: Efficient Context Parallelism for Training Diffusion Drafters
+- **ArXiv ID:** [oai:arXiv.org:2611.05926v1](oai:arXiv.org:2611.05926v1) [[GitHub]](https://github.com/zxgx/verl)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05926v1 Announce Type: new  Abstract: Diffusion drafters accelerate speculative decoding by denoising multiple draft tokens in parallel. Their training uses anchor sampling to construct compact draft queries and performs cross-attention with a block-sparse mask over a 
+
+### Reglos: A Self-Evolving Personal Memory Agent with Recursive Self-Improvement
+- **ArXiv ID:** [oai:arXiv.org:2611.06049v1](oai:arXiv.org:2611.06049v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06049v1 Announce Type: new  Abstract: Personal agents draw on past conversations to tailor their responses to each user. Their memory systems store and update what each user says, and coding agents now also rewrite the harness that turns this memory into the model's co
+
+### Beyond Risk Cues: A Mechanism-Level Benchmark and Verifiable Debate for Scam Video Detection on the Web
+- **ArXiv ID:** [oai:arXiv.org:2611.06110v1](oai:arXiv.org:2611.06110v1) [[GitHub]](https://github.com/SuperYFan/MechScam)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06110v1 Announce Type: new  Abstract: Online scam videos pose significant threats to individuals and society. Existing studies primarily focus on binary classification, offering limited insights into how scams work and the reasoning behind detection decisions.
+
+### HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents
+- **ArXiv ID:** [oai:arXiv.org:2611.06254v1](oai:arXiv.org:2611.06254v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06254v1 Announce Type: new  Abstract: The performance of large language model (LLM) agents depends on both the underlying model and the harness that governs interaction with tools and the environment. Yet harness design remains largely manual, and automating it require
+
+### A Systematic Benchmark for Evaluating Multimodal Personalized Reasoning of Vision-Language Models
+- **ArXiv ID:** [oai:arXiv.org:2611.06259v1](oai:arXiv.org:2611.06259v1) [[GitHub]](https://github.com/kkdh15/MPRBench)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06259v1 Announce Type: new  Abstract: People often make decisions by holistically reasoning over heterogeneous forms of personal information. In this paper, we study the relatively underexplored capability of multimodal personalized reasoning in multimodal large langua
+
+### DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation
+- **ArXiv ID:** [oai:arXiv.org:2611.06280v1](oai:arXiv.org:2611.06280v1) [[GitHub]](https://github.com/mengqi132/DyPSI)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06280v1 Announce Type: new  Abstract: Physics sensing in evolving environments requires reconstructing dense spatiotemporal fields from sparse observations while adapting where future observations should be collected. Existing reconstruction and sensor-placement method
+
+### Multi-Resident Data Association in Smart Homes via MDP Modeling and Behavior Cloning
+- **ArXiv ID:** [oai:arXiv.org:2611.06296v1](oai:arXiv.org:2611.06296v1)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06296v1 Announce Type: new  Abstract: Ambient sensors offer a privacy-preserving solution for activity recognition in smart homes, yet they face a critical challenge in multi-resident environments known as Data Association, which aims to identify the resident triggerin
+
+### STEK: Structural-Terrain-Enhanced Koopman-Inspired Cross-Channel Regularization for Retrospective Battery Multi-Target Estimation
+- **ArXiv ID:** [oai:arXiv.org:2611.06299v1](oai:arXiv.org:2611.06299v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06299v1 Announce Type: new  Abstract: Retrospective battery characterization across heterogeneous cells is challenging because cycling records vary substantially with chemistry, protocol, cell format, capacity, and operating conditions. An endpoint charge--discharge cu
+
+### LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution
+- **ArXiv ID:** [oai:arXiv.org:2611.06381v1](oai:arXiv.org:2611.06381v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06381v1 Announce Type: new  Abstract: As LLM-based agents develop, they have been increasingly applied in the legal domain. Legal Judgment Prediction~(LJP) requires models to conduct multi-step reasoning and external legal evidence retrieval.
+
+### MA-Mesh: Resilient Multi-Agent Collaboration via Role-based Self-Healing
+- **ArXiv ID:** [oai:arXiv.org:2611.06389v1](oai:arXiv.org:2611.06389v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06389v1 Announce Type: new  Abstract: Effective collaboration in multi-agent systems requires mechanisms for coordination and adaptability in dynamic and uncertain environments. However, existing multi-agent systems rarely model resilience explicitly, instead relying o
+
+### GIST: Gibbs-Targeted Hierarchical Data Selection for Offline RLVR
+- **ArXiv ID:** [oai:arXiv.org:2611.06395v1](oai:arXiv.org:2611.06395v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `GSM8K, MATH, ARC`
+- **TL;DR:** arXiv:2611.06395v1 Announce Type: new  Abstract: Offline reinforcement learning with verifiable rewards (RLVR) trains on a fixed pool of sampled responses and typically supervises every token of every response, although responses and tokens are not equally informative. We study w
+
+### D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding
+- **ArXiv ID:** [oai:arXiv.org:2611.06425v1](oai:arXiv.org:2611.06425v1) [[GitHub]](https://github.com/fudan-generative-vision/D3D)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `GSM8K`
+- **TL;DR:** arXiv:2611.06425v1 Announce Type: new  Abstract: Target-conditioned diffusion drafters predict candidate tokens in parallel, yet each new block must wait for updated target-model hidden states. This forces drafting and verification to run sequentially, limiting speedup even thoug
+
+### Tools Need Not Speak in Text: Latent Context Compression for Agents
+- **ArXiv ID:** [oai:arXiv.org:2611.06500v1](oai:arXiv.org:2611.06500v1) [[GitHub]](https://github.com/THU-Agent/Coca-cola)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06500v1 Announce Type: new  Abstract: Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent's attention to task-relevant in
+
+### ElecLoad: Adaptive Electricity Load Forecasting Guided by Multiple Events
+- **ArXiv ID:** [oai:arXiv.org:2611.06508v1](oai:arXiv.org:2611.06508v1) [[GitHub]](https://github.com/zhjai/ElecLoad)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06508v1 Announce Type: new  Abstract: Accurate electricity load forecasting provides critical decision support for energy procurement, generation scheduling, and supply-demand balancing, contributing to the economic efficiency and operational reliability of power syste
+
+### Using Experience Twice: Dynamic Process Rubrics for Privileged Token-Level Credit Assignment
+- **ArXiv ID:** [oai:arXiv.org:2611.06543v1](oai:arXiv.org:2611.06543v1) [[GitHub]](https://github.com/AnnaXChun/ORSD)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06543v1 Announce Type: new  Abstract: Agent trajectories often contain both successful decisions and failed attempts, yet optimization with sparse trajectory-level rewards struggles to identify which critical decisions should be reinforced or suppressed. We observe tha
+
+### Interactive World Simulation with Cosmos for Physical AI
+- **ArXiv ID:** [oai:arXiv.org:2611.06627v1](oai:arXiv.org:2611.06627v1) [[GitHub]](https://github.com/nvidia/cosmos)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06627v1 Announce Type: new  Abstract: We present a shared framework that adapts Cosmos world foundation models for real-time interactive world simulation in Physical AI. By streaming visual observations in response to actions and scene controls, the framework enables u
+
+### Learning to Decode Linear Codes with Generalized Belief Propagation Network
+- **ArXiv ID:** [oai:arXiv.org:2611.06874v1](oai:arXiv.org:2611.06874v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06874v1 Announce Type: new  Abstract: Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical iterative al
+
+### MvBody: Multi-View-Based Hybrid Transformer Using Optical 3D Body Scan for Explainable Cesarean Section Prediction
+- **ArXiv ID:** [oai:arXiv.org:2511.03212v1](oai:arXiv.org:2511.03212v1)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2511.03212v1 Announce Type: cross  Abstract: Accurately assessing the risk of cesarean section (CS) delivery is critical, especially in settings with limited medical resources, where access to healthcare is often restricted. Early and reliable risk prediction allows better-
+
+### Hallucination Is Linearly Decodable from Mid-Layer Hidden States in Quantized LLMs
+- **ArXiv ID:** [oai:arXiv.org:2606.02628v1](oai:arXiv.org:2606.02628v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2606.02628v1 Announce Type: cross  Abstract: We investigate whether open-source LLMs encode a linearly separable truthfulness signal in their hidden states, and at which network depth this signal is strongest. Across three $7$B--$8$B instruction-tuned models (Llama-3.1-8B, 
+
+### Do agents need to sleep?
+- **ArXiv ID:** [oai:arXiv.org:2611.02216v2](oai:arXiv.org:2611.02216v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.02216v2 Announce Type: cross  Abstract: LLM-based agents, which increasingly operate persistently across sessions and accumulate memory through interaction, already exhibit the familiar symptoms of unchecked plasticity: semantic drift, degraded retrieval precision, pro
+
+### CAST-Bench: Tracing Every Sound to Its Source in Multi-Shot Audio-Video Generation
+- **ArXiv ID:** [oai:arXiv.org:2611.05422v1](oai:arXiv.org:2611.05422v1) [[GitHub]](https://github.com/yucong-liu/CAST-Bench-public)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05422v1 Announce Type: cross  Abstract: Existing benchmarks for joint text-to-audio-video (T2AV) generation evaluate perceptual quality and audiovisual alignment, but balanced sound-source sam?pling and separate reporting by shot structure remain limited. This makes it
+
+### SurgTransfer: Multi-Step Latent Action Modeling for Action Transfer in Surgical World Model
+- **ArXiv ID:** [oai:arXiv.org:2611.05443v1](oai:arXiv.org:2611.05443v1) [[GitHub]](https://github.com/bhattarailab/Surgical-Vision-World-Model)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05443v1 Announce Type: cross  Abstract: Surgical world models have the potential to provide intra-operative guidance, accelerate risk-free training and facilitate transfer of expert surgical maneuvers. However, the use of world models for transferring surgical expertis
+
+### TSFM Meets LLM: Context as Covariates
+- **ArXiv ID:** [oai:arXiv.org:2611.05515v1](oai:arXiv.org:2611.05515v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05515v1 Announce Type: cross  Abstract: Textual information is ubiquitous in real-world time series datasets, appearing as news, reports, and annotations that hold key predictive signals not deducible from numerical history alone. Large Language Models (LLMs) interpret
+
+### MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics
+- **ArXiv ID:** [oai:arXiv.org:2611.05567v1](oai:arXiv.org:2611.05567v1)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05567v1 Announce Type: cross  Abstract: Despite growing interest in foundation models for robotic manipulation, systematic evaluation of their capabilities remains elusive. Existing benchmarks are either narrow and saturated, offering little signal on SOTA methods, bro
+
+### Multimodal Fusion Methods for Whole-Slide Images and Clinical Data in Inflammatory Bowel Disease
+- **ArXiv ID:** [oai:arXiv.org:2611.05579v1](oai:arXiv.org:2611.05579v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05579v1 Announce Type: cross  Abstract: Multimodal AI fusion of histology and clinical data is an active research area in computational pathology, but fusion methods are rarely compared under identical conditions and across different clinical endpoints. We present a mo
+
+### Spatio-Temporal Multi-Order Interaction for Video Recognition
+- **ArXiv ID:** [oai:arXiv.org:2611.05633v1](oai:arXiv.org:2611.05633v1)
+- **Architecture:** `Transformer` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05633v1 Announce Type: cross  Abstract: Many temporal approaches for video recognition rely on explicit cross-channel aggregation projections, which have quadratic complexity in the number of channels, introducing significant computational overhead. In addition, the sp
+
+### OdorSpaces: Visual-Olfactory Embodied Navigation in 3D Environments
+- **ArXiv ID:** [oai:arXiv.org:2611.05738v1](oai:arXiv.org:2611.05738v1)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05738v1 Announce Type: cross  Abstract: Olfaction provides critical information about airborne chemical cues, yet it remains largely underexplored in embodied AI, with limited prior machine olfaction work focusing primarily on semantic odor perception. We introduce Odo
+
+### Text-Only Domain Adaptation for Low-Resource Medical ASR: Shallow Fusion and Density Ratio Rescoring for Hausa
+- **ArXiv ID:** [oai:arXiv.org:2611.05744v1](oai:arXiv.org:2611.05744v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05744v1 Announce Type: cross  Abstract: Automatic speech recognition (ASR) systems often struggle with specialised medical vocabulary, especially in low-resource languages where domain-specific speech data are scarce. We investigate text-only domain adaptation for Haus
+
+### Scheduling Data to Compute: Hierarchical Data Pipelining for LLM Training on AMD GPUs
+- **ArXiv ID:** [oai:arXiv.org:2611.05751v1](oai:arXiv.org:2611.05751v1) [[GitHub]](https://github.com/AMD-AGI/Primus-Turbo)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05751v1 Announce Type: cross  Abstract: Large language models (LLM) have been the key focus of recent machine learning breakthroughs. As the model size grows exponentially, the computation needed for training is astronomical.
+
+### GREP: Grounding Generated Room Evaluation in Principles
+- **ArXiv ID:** [oai:arXiv.org:2611.05802v1](oai:arXiv.org:2611.05802v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05802v1 Announce Type: cross  Abstract: Recent LLM-centric advances can generate attractive furnished rooms by selecting and arranging assets. Yet evaluation remains limited to specific perspectives or predefined questions, failing to reflect overall scene quality.
+
+### Learning When Human Decisions Matter: Executor-Relative Consultation Value for LLM Agents
+- **ArXiv ID:** [oai:arXiv.org:2611.05814v1](oai:arXiv.org:2611.05814v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.05814v1 Announce Type: cross  Abstract: Large language models increasingly automate complex tasks, but human decision capacity does not scale with their capabilities. In many applications, humans remain essential for providing private context, authority, or judgments u
+
+### RACE: Calibrated Cumulative Scoring for Rollout-Free Robot Policy Checkpoint Selection
+- **ArXiv ID:** [oai:arXiv.org:2611.05838v1](oai:arXiv.org:2611.05838v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05838v1 Announce Type: cross  Abstract: Assessing the deployment performance of learned robot policies during training is challenging, as directly measuring task success requires costly real-world trials for each candidate checkpoint. Averaged validation loss offers a 
+
+### PEARL: Prediction Error-Adaptive Regularized Learning for Selective Forgetting under Partial Preference Drift
+- **ArXiv ID:** [oai:arXiv.org:2611.05842v1](oai:arXiv.org:2611.05842v1)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05842v1 Announce Type: cross  Abstract: User preferences shift as needs, context, and tastes evolve. This matters for personalized recommendation, LLM response generation, and RLHF-trained reward models, which can become miscalibrated as preferences drift.
+
+### Clips2Story: Training-Free Video Storyboarding and Editing Using Multimodal Retrieval-Embedded Generation
+- **ArXiv ID:** [oai:arXiv.org:2611.05992v1](oai:arXiv.org:2611.05992v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.05992v1 Announce Type: cross  Abstract: Video editors often work with large collections of fragmented footage and must select and organize relevant clips into a coherent story. However, many existing video editing and summarization methods assume a temporally ordered s
+
+### Intra-Architecture Source Attribution for Stable Diffusion: A New Task with Benchmark Dataset and Baseline
+- **ArXiv ID:** [oai:arXiv.org:2611.06000v1](oai:arXiv.org:2611.06000v1) [[GitHub]](https://github.com/mallikagarg/IntrAA-SD)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06000v1 Announce Type: cross  Abstract: Designing systems that attribute a generated image to its source model has lately become a major area of AI research. Most existing datasets and systems related to image source attribution are targeted towards the detection of ar
+
+### Practical Estimation of the Bayes Optimal Fairness-Accuracy Tradeoff with Soft Labels
+- **ArXiv ID:** [oai:arXiv.org:2611.06027v1](oai:arXiv.org:2611.06027v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06027v1 Announce Type: cross  Abstract: There is a fundamental limit to the best prediction error of any model for a given data distribution. In classification, the Bayes error quantifies this limit and serves as both a benchmark for trained models and a criterion to d
+
+### Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription
+- **ArXiv ID:** [oai:arXiv.org:2611.06043v1](oai:arXiv.org:2611.06043v1) [[GitHub]](https://github.com/netease-youdao/Confucius4-R2T2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06043v1 Announce Type: cross  Abstract: Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action.
+
+### Grounding in the Dark: Text-Only Training for Zero-Shot Video Temporal Localization
+- **ArXiv ID:** [oai:arXiv.org:2611.06149v1](oai:arXiv.org:2611.06149v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06149v1 Announce Type: cross  Abstract: Video-LLMs are typically trained on paired video-text data for temporal tasks, yet collecting precise temporal annotations and training on large-scale video datasets are both costly. We investigate whether a text-only LLM, with n
+
+### Editing Large Language Models with Geometry-Aware Regularization
+- **ArXiv ID:** [oai:arXiv.org:2611.06185v1](oai:arXiv.org:2611.06185v1)
+- **Architecture:** `Transformer` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06185v1 Announce Type: cross  Abstract: Knowledge editing has become a key technique for updating knowledge in large language models. However, existing methods neglect the geometric structure of the knowledge representation space, leading to two key limitations: they c
+
+### CoSafe: Cooperative Runtime Safety Assurance for Mixed-Traffic Autonomous Driving
+- **ArXiv ID:** [oai:arXiv.org:2611.06204v1](oai:arXiv.org:2611.06204v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06204v1 Announce Type: cross  Abstract: With the rapid development of autonomous driving systems (ADSes), real-world roads are evolving into mixed-traffic environments where autonomous vehicles (AVs) and other traffic participants (e.g., human-driven vehicles (HDVs), c
+
+### Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains
+- **ArXiv ID:** [oai:arXiv.org:2611.06244v1](oai:arXiv.org:2611.06244v1)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `MATH`
+- **TL;DR:** arXiv:2611.06244v1 Announce Type: cross  Abstract: Reinforcement learning with verifiable rewards (RLVR) has led to significant gains in math and code generation. Extending these gains to open-ended domains remains challenging: ground-truth verification is unavailable, human anno
+
+### Learning Pseudo-Riemannian Manifolds for Heterophilic Graphs via Graph Signature
+- **ArXiv ID:** [oai:arXiv.org:2611.06265v1](oai:arXiv.org:2611.06265v1)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `MATH, ARC`
+- **TL;DR:** arXiv:2611.06265v1 Announce Type: cross  Abstract: Several widely used families of Graph Neural Networks carry a positive-definite geometric prior. Graph convolution read as heat diffusion needs a positive semi-definite operator, hyperbolic models place features on positive-defin
+
+### NextGAN: Towards Simple and Scalable GAN Training for Image and Video Generation
+- **ArXiv ID:** [oai:arXiv.org:2611.06270v1](oai:arXiv.org:2611.06270v1) [[GitHub]](https://github.com/LINs-lab/NextGAN.git)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ImageNet`
+- **TL;DR:** arXiv:2611.06270v1 Announce Type: cross  Abstract: Adversarial training enables one- and few-step image and video generation, but conventional adversarial losses supervise critic values without directly specifying the gradients used to update the generator. We present NEXTGAN, wh
+
+### MonoLaDN: Language-Guided DeNoising for Monocular 3D Object Detection
+- **ArXiv ID:** [oai:arXiv.org:2611.06282v1](oai:arXiv.org:2611.06282v1)
+- **Architecture:** `Transformer` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06282v1 Announce Type: cross  Abstract: Monocular 3D object detection offers a low-cost route to 3D perception, but it remains fundamentally ill-posed, since depth must be inferred from a single view. Recent transformer-based detectors learn geometry purely from image 
+
+### When Does Risk-Controlled Throughput Forecasting Actually Control Risk? A Reproduction Study on LEO Satellite Link
+- **ArXiv ID:** [oai:arXiv.org:2611.06307v1](oai:arXiv.org:2611.06307v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06307v1 Announce Type: cross  Abstract: Risk-budgeted throughput forecasting converts a point forecast of LEO satellite capacity into a conservative bound whose overestimation rate is held at a user-specified budget, so that admission control can act on it safely. We r
+
+### Conformal Prediction for Distribution-to-Distribution Regression
+- **ArXiv ID:** [oai:arXiv.org:2611.06320v1](oai:arXiv.org:2611.06320v1) [[GitHub]](https://github.com/tuanhacs/conformal_d2d)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06320v1 Announce Type: cross  Abstract: Conformal Prediction (CP) provides a model-agnostic framework for constructing finite-sample prediction sets with coverage guarantees and has become a tool for reliable decision-making in high-risk settings. Recent advances have 
+
+### Mass Producing Training Data with Surprising Side Effects
+- **ArXiv ID:** [oai:arXiv.org:2611.06324v1](oai:arXiv.org:2611.06324v1)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.06324v1 Announce Type: cross  Abstract: Training data can have unexpected side effects on language model behavior outside the training domain: insecure code data can induce broad misalignment, and outdated bird names can induce a 19th-century persona. Understanding suc
+
+### Learning to Tune with Biased Gradients: Iterative Feedback Tuning of Model-Free Control on Throttle Valves
+- **ArXiv ID:** [oai:arXiv.org:2611.06338v1](oai:arXiv.org:2611.06338v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06338v1 Announce Type: cross  Abstract: Iterative feedback tuning (IFT) learns the parameters of a fixed-structure controller by stochastic gradient descent. At each iteration, two closed-loop experiments are run on the plant: the first one measures the tracking error,
+
+### Traffic-VL: Reinforced Vision-Language Models for Generalizable End-to-End Traffic Signal Control
+- **ArXiv ID:** [oai:arXiv.org:2611.06353v1](oai:arXiv.org:2611.06353v1)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06353v1 Announce Type: cross  Abstract: Existing traffic signal control methods typically rely on structured traffic states produced by dedicated perception pipelines. Emerging visual approaches often use idealized simulator images and convert them into intermediate re
+
+### From hydrological laws to catchment models: A process-based model matches deep-learning accuracy on three continents
+- **ArXiv ID:** [oai:arXiv.org:2611.06382v1](oai:arXiv.org:2611.06382v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06382v1 Announce Type: cross  Abstract: Dooge asked whether hydrology has laws at the catchment scale. We ask whether a low-dimensional system built under physical laws can match the accuracy of neural networks that outperform process-based models on the same inputs.
+
+### Zero-Shot Coordination among LLM Agents
+- **ArXiv ID:** [oai:arXiv.org:2611.06409v1](oai:arXiv.org:2611.06409v1) [[GitHub]](https://github.com/ahayler/zsc-llm-agents)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06409v1 Announce Type: cross  Abstract: We study zero-shot coordination (ZSC), where independently developed agents must coordinate at test time. While ZSC has been well studied in the RL literature, far less is known about the performance of LLM agents despite their i
+
+### Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains
+- **ArXiv ID:** [oai:arXiv.org:2611.06585v1](oai:arXiv.org:2611.06585v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06585v1 Announce Type: cross  Abstract: AI agents rely on third-party tools, such as Model Context Protocol (MCP) servers, whose publishers can be authenticated and whose execution can be restricted by runtime security policies. Yet authenticity does not guarantee beni
+
+### Human Motion Prediction via Continual Prior Compensation
+- **ArXiv ID:** [oai:arXiv.org:2611.06637v1](oai:arXiv.org:2611.06637v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06637v1 Announce Type: cross  Abstract: Human Motion Prediction (HMP) aims to predict future human poses at different moments according to observed past motion sequences. Previous approaches mainly treated the prediction of different temporal moments as a single predic
+
+### Message-passing graph persistence
+- **ArXiv ID:** [oai:arXiv.org:2611.06801v1](oai:arXiv.org:2611.06801v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.06801v1 Announce Type: cross  Abstract: Message-passing graph neural networks (GNNs) are limited in expressive power by the one-dimensional Weisfeiler-Leman test. Persistent homology (PH) provides topological descriptors that can complement GNN representations, but exi
+
+### UpSafe$^\circ$C: Upcycling for Controllable Safety in Large Language Models
+- **ArXiv ID:** [oai:arXiv.org:2510.02194v2](oai:arXiv.org:2510.02194v2) [[GitHub]](https://github.com/HansSunY/UpSafe)
+- **Architecture:** `Mixture of Experts (MoE)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2510.02194v2 Announce Type: replace  Abstract: Large Language Models (LLMs) have achieved remarkable progress across a wide range of tasks, but remain vulnerable to safety risks such as harmful content generation and jailbreak attacks. Existing safety techniques---including
+
+### Evolutionary System Prompt Learning for Reinforcement Learning in LLMs
+- **ArXiv ID:** [oai:arXiv.org:2602.14697v4](oai:arXiv.org:2602.14697v4) [[GitHub]](https://github.com/LunjunZhang/E-SPL)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2602.14697v4 Announce Type: replace  Abstract: Building agentic systems that can autonomously self-improve from experience is a longstanding goal of AI. Large language models (LLMs) today primarily self-improve via two mechanisms: self-reflection for context updates, and re
+
+### Certified Circuits: Stability Guarantees for Mechanistic Circuits
+- **ArXiv ID:** [oai:arXiv.org:2602.22968v4](oai:arXiv.org:2602.22968v4) [[GitHub]](https://github.com/AlaaAnani/certified-circuits)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ImageNet, ARC`
+- **TL;DR:** arXiv:2602.22968v4 Announce Type: replace  Abstract: Understanding how neural networks arrive at their predictions is essential for debugging, auditing, and deployment. Mechanistic interpretability pursues this goal by identifying circuits--minimal subnetworks responsible for spe
+
+### AS2 -- Attention-Based Soft Answer Sets: An End-to-End Differentiable Neuro-Soft-Symbolic Reasoning Architecture
+- **ArXiv ID:** [oai:arXiv.org:2603.18436v2](oai:arXiv.org:2603.18436v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2603.18436v2 Announce Type: replace  Abstract: Neuro-symbolic systems typically combine neural perception with discrete symbolic solvers, limiting end-to-end optimization. We introduce Attention-Based Soft Answer Sets (AS$^2$), a fully differentiable neuro-symbolic architec
+
+### AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting
+- **ArXiv ID:** [oai:arXiv.org:2604.23239v2](oai:arXiv.org:2604.23239v2)
+- **Architecture:** `State Space Model (SSM/Mamba)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2604.23239v2 Announce Type: replace  Abstract: Time-series forecasting is foundational to a wide spectrum of web-scale services, spanning personalized recommendations, energy scheduling, and infrastructure capacity planning. Accurate long-term time series forecasting (LTSF)
+
+### Learning to Learn from Multimodal Experience
+- **ArXiv ID:** [oai:arXiv.org:2605.16857v2](oai:arXiv.org:2605.16857v2) [[GitHub]](https://github.com/XingYuSSS/AutoMMemo)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2605.16857v2 Announce Type: replace  Abstract: Multimodal agents increasingly interact with real-world-like environments and generate rich trajectories spanning perception, reasoning, and action. A key research focus is how to transform these raw multimodal trajectories int
+
+### EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling
+- **ArXiv ID:** [oai:arXiv.org:2606.26578v2](oai:arXiv.org:2606.26578v2)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2606.26578v2 Announce Type: replace  Abstract: Automating optimization modeling from natural language with large language models (LLMs) faces two key challenges. First, training corpora lack structural diversity.
+
+### KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling
+- **ArXiv ID:** [oai:arXiv.org:2607.09153v2](oai:arXiv.org:2607.09153v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `GSM8K, MATH, ARC`
+- **TL;DR:** arXiv:2607.09153v2 Announce Type: replace  Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly boost the capabilities of LLM-based multi-agent systems. However, existing PRMs are text-based
+
+### CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI
+- **ArXiv ID:** [oai:arXiv.org:2609.02459v2](oai:arXiv.org:2609.02459v2) [[GitHub]](https://github.com/lmwilki/civ6-mcp)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2609.02459v2 Announce Type: replace  Abstract: We present CivBench, an open-source benchmark for evaluating language model agents in long-horizon, tool-mediated environments through the Model Context Protocol (MCP). A single episode can span over 300 turns and produces thou
+
+### Evolving Support Priorities in Empathetic Reinforcement Learning
+- **ArXiv ID:** [oai:arXiv.org:2609.34249v3](oai:arXiv.org:2609.34249v3)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2609.34249v3 Announce Type: replace  Abstract: We identify a fundamental mismatch in empathetic reinforcement learning: support priorities evolve with the dialogue state, yet existing methods typically optimize predefined reward specifications that remain fixed across turns
+
+### AutoBCI: Forecast-Guided Agentic Neural Architecture Discovery for EEG-Based Brain-Computer Interfaces
+- **ArXiv ID:** [oai:arXiv.org:2609.35456v2](oai:arXiv.org:2609.35456v2) [[GitHub]](https://github.com/Jiang-Muyun/AutoBCI)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2609.35456v2 Announce Type: replace  Abstract: EEG-based brain-computer interfaces support a broad range of applications, yet designing decoding architectures that perform well across diverse tasks remains challenging. We introduce AutoBCI, an agentic framework in which a D
+
+### MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations
+- **ArXiv ID:** [oai:arXiv.org:2610.02480v2](oai:arXiv.org:2610.02480v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2610.02480v2 Announce Type: replace  Abstract: Recent years have seen the employment of a plethora of machine learning (ML) models in high-stakes domains, but they remain largely opaque to the practitioners who act on their predictions. While post-hoc explanation methods of
+
+### MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability
+- **ArXiv ID:** [oai:arXiv.org:2610.04672v2](oai:arXiv.org:2610.04672v2) [[GitHub]](https://github.com/BUPT-GAMMA/MASBench)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2610.04672v2 Announce Type: replace  Abstract: Large language models (LLMs) have progressively evolved into the core of autonomous agents. Building on this progress, LLM-based multi-agent systems (MAS) coordinate multiple agents into a synergistic team to accomplish complex
+
+### Local Entropy Fluctuations for Black-Box LLM-Generated Text Detection
+- **ArXiv ID:** [oai:arXiv.org:2610.33767v3](oai:arXiv.org:2610.33767v3) [[GitHub]](https://github.com/brushing-git/entropy-llm-detector)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2610.33767v3 Announce Type: replace  Abstract: Zero-shot detection of machine-generated text is vital for mitigating the risks of large language models (LLMs) misuse. While the state-of-the-art dual-model detectors and resampling-based detectors outperform single-model stat
+
+### OS-Wizard: Scaling Computer-Using Agents to Specialized Software via Knowledge-Guided Exploration
+- **ArXiv ID:** [oai:arXiv.org:2610.33907v2](oai:arXiv.org:2610.33907v2)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2610.33907v2 Announce Type: replace  Abstract: Computer-using agents are increasingly capable of performing complex tasks in the digital world. To advance such agents, supervised learning on annotated interaction trajectories has become a common approach to improving their 
+
+### AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation
+- **ArXiv ID:** [oai:arXiv.org:2611.00177v2](oai:arXiv.org:2611.00177v2) [[GitHub]](https://github.com/xueha0/AuroraWorld)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.00177v2 Announce Type: replace  Abstract: Egocentric observations provide a robot-centric view of manipulation processes, capturing contact interactions and object-state changes that are important for visuomotor policy learning but difficult to observe from external ca
+
+### VCoT-SQL: Enhancing Text-to-SQL Generation through Dual Chain-of-Thought Validation Training
+- **ArXiv ID:** [oai:arXiv.org:2611.00815v2](oai:arXiv.org:2611.00815v2) [[GitHub]](https://github.com/INTREBID/VCoT-SQL)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.00815v2 Announce Type: replace  Abstract: Open-source LLMs provide a flexible alternative to closed-source models for Text-to-SQL but still struggle with complex queries. Finetuning with chain-of-thought (CoT) data improves reasoning, yet standard datasets lack CoT ann
+
+### Hindsight Relabeling is All You Need for Reach-Avoid Learning
+- **ArXiv ID:** [oai:arXiv.org:2505.19337v3](oai:arXiv.org:2505.19337v3)
+- **Architecture:** `Transformer` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2505.19337v3 Announce Type: replace-cross  Abstract: Offline goal-conditioned reinforcement learning methods have shown promise for reach-avoid tasks, where an agent must reach a target state while avoiding undesirable regions of the state space. Existing approaches typical
+
+### Goal-Oriented Sequential Bayesian Experimental Design for Causal Learning
+- **ArXiv ID:** [oai:arXiv.org:2507.07359v2](oai:arXiv.org:2507.07359v2)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2507.07359v2 Announce Type: replace-cross  Abstract: We present GO-CBED, a goal-oriented Bayesian framework for sequential causal experimental design. Unlike conventional approaches that select interventions aimed at inferring the full causal model, GO-CBED directly maximiz
+
+### Scalable Source Selection for Machine Learning Tasks
+- **ArXiv ID:** [oai:arXiv.org:2507.22186v3](oai:arXiv.org:2507.22186v3)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2507.22186v3 Announce Type: replace-cross  Abstract: Given a query table, existing data lake discovery techniques seek to identify data sources related to the query table through schema similarity and joinability. The discovered sources, however, are not always useful for d
+
+### When Reviews Are Scarce: Structure-Aware Review Imputation for Recommendation in Realistic Sparse Review Settings
+- **ArXiv ID:** [oai:arXiv.org:2508.01128v2](oai:arXiv.org:2508.01128v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2508.01128v2 Announce Type: replace-cross  Abstract: Textual reviews enrich recommender systems with fine-grained preference signals and enhanced explainability. However, in real-world scenarios, users rarely leave reviews, resulting in severe sparsity that undermines the e
+
+### DUP: Detection-guided Unlearning for Backdoor Purification in Language Models
+- **ArXiv ID:** [oai:arXiv.org:2508.01647v2](oai:arXiv.org:2508.01647v2) [[GitHub]](https://github.com/ManHu2025/DUP)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2508.01647v2 Announce Type: replace-cross  Abstract: As backdoor attacks become more stealthy and robust, they reveal critical weaknesses in current defense strategies: detection methods often rely on coarse-grained feature statistics, and purification methods typically req
+
+### Benchmarking Pretrained Molecular Embedding Models For Molecular Representation Learning
+- **ArXiv ID:** [oai:arXiv.org:2508.06199v5](oai:arXiv.org:2508.06199v5)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2508.06199v5 Announce Type: replace-cross  Abstract: Pretrained molecular embedding models spanning graph neural networks, text transformers, and hybrid architectures have been widely used in drug discovery, yet no large-scale, rigorous comparison of their representations e
+
+### PointRAFT: 3D deep learning for high-throughput prediction of potato tuber weight from partial point clouds
+- **ArXiv ID:** [oai:arXiv.org:2512.24193v2](oai:arXiv.org:2512.24193v2) [[GitHub]](https://github.com/pieterblok/pointraft)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2512.24193v2 Announce Type: replace-cross  Abstract: Key phenotypic traits, such as crop size, volume, and weight, can be estimated non-destructively from point clouds. In practice, however, point clouds of crops are typically incomplete due to self-occlusion, leading to sy
+
+### Utilizing Earth Foundation Models to Enhance the Simulation Performance of Hydrological Models with AlphaEarth Embeddings
+- **ArXiv ID:** [oai:arXiv.org:2601.01558v3](oai:arXiv.org:2601.01558v3)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2601.01558v3 Announce Type: replace-cross  Abstract: Accurate prediction in ungauged basins (PUB) requires effective transfer across hydrologically diverse regions. While deep learning has advanced large-sample hydrological modeling, its cross-regional generalization depend
+
+### COL-Trees: Efficient Hierarchical Object Search in Spatial Networks
+- **ArXiv ID:** [oai:arXiv.org:2601.22183v2](oai:arXiv.org:2601.22183v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2601.22183v2 Announce Type: replace-cross  Abstract: Many spatial network applications, such as map-based services, rely heavily on efficient methods to search for relevant nearby points-of-interest (POIs). A $k$ Nearest Neighbor ($k$NN) query is one such example that finds
+
+### CompilerKV: Risk-Adaptive KV Compression via Offline Experience Compilation
+- **ArXiv ID:** [oai:arXiv.org:2602.08686v4](oai:arXiv.org:2602.08686v4)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2602.08686v4 Announce Type: replace-cross  Abstract: Prefill-only KV compression freezes a token subset at the end of prefill and decodes from it without further eviction. The retention decision is therefore irreversible, yet existing methods estimate the corrective signals
+
+### A Lightweight Multi-View Approach to Short-Term Load Forecasting
+- **ArXiv ID:** [oai:arXiv.org:2602.09220v2](oai:arXiv.org:2602.09220v2)
+- **Architecture:** `Transformer` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2602.09220v2 Announce Type: replace-cross  Abstract: Time series forecasting is a critical task across domains such as energy, finance, and meteorology, where accurate predictions enable informed decision-making. While transformer-based and large-parameter models have recen
+
+### Disentangle to create: Architecture-level disentangled diffusion model for few-shot Chinese font generation
+- **ArXiv ID:** [oai:arXiv.org:2602.18874v2](oai:arXiv.org:2602.18874v2) [[GitHub]](https://github.com/JayLee1002/ALD-Font)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2602.18874v2 Announce Type: replace-cross  Abstract: Few-shot Chinese font generation aims to synthesize new characters in a target style using only a handful of reference images. Achieving accurate content rendering and faithful style transfer requires effective disentangl
+
+### Farther the Shift, Sparser the Representation: Analyzing OOD Mechanisms in LLMs
+- **ArXiv ID:** [oai:arXiv.org:2603.03415v4](oai:arXiv.org:2603.03415v4) [[GitHub]](https://github.com/MingyuJ666/sparsityLLM)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `MATH`
+- **TL;DR:** arXiv:2603.03415v4 Announce Type: replace-cross  Abstract: In this work, we investigate how the internal representations of Large Language Models (LLMs) change with inputs of increasing difficulty. Although sparsity changes may not be obvious for individual samples, dataset-level
+
+### PREBA: Surgical Duration Prediction via PCA-Weighted Retrieval-Augmented LLMs and Bayesian Averaging Aggregation
+- **ArXiv ID:** [oai:arXiv.org:2603.13275v4](oai:arXiv.org:2603.13275v4) [[GitHub]](https://github.com/kanxueli/PREBA)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2603.13275v4 Announce Type: replace-cross  Abstract: Accurate prediction of surgical duration is pivotal for hospital resource management. Although recent supervised learning approaches, from machine learning (ML) to fine-tuned large language models (LLMs), have shown stron
+
+### MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels
+- **ArXiv ID:** [oai:arXiv.org:2603.19310v5](oai:arXiv.org:2603.19310v5)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `MATH`
+- **TL;DR:** arXiv:2603.19310v5 Announce Type: replace-cross  Abstract: Reinforcement learning (RL) fine-tuning improves large language model (LLM) reasoning using reward signals on sampled rollouts. When reward labels are available for only a subset of rollouts, restricting policy updates to
+
+### KL for a KL: On-Policy Distillation with Control Variate Baseline
+- **ArXiv ID:** [oai:arXiv.org:2605.07865v2](oai:arXiv.org:2605.07865v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `MATH`
+- **TL;DR:** arXiv:2605.07865v2 Announce Type: replace-cross  Abstract: On-Policy Distillation (OPD) has emerged as a dominant post-training paradigm for Large Language Models, especially in reasoning domains. However, OPD remains unstable in practice due to the high gradient variance of its 
+
+### Lattice Deduction Transformers
+- **ArXiv ID:** [oai:arXiv.org:2605.08605v2](oai:arXiv.org:2605.08605v2)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2605.08605v2 Announce Type: replace-cross  Abstract: We introduce the Lattice Deduction Transformer (LDT), a recurrent transformer that approximates logically sound deduction by projecting its latent state through a lattice between forward passes. We train on-policy in a pr
+
+### Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning
+- **ArXiv ID:** [oai:arXiv.org:2605.14386v2](oai:arXiv.org:2605.14386v2)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2605.14386v2 Announce Type: replace-cross  Abstract: We present Darwin Family, a framework for training-free evolutionary merging of large language models via gradient-free weight-space recombination. We ask whether frontier-level reasoning performance can be improved witho
+
+### Ekka: Automated Diagnosis of Silent Errors in LLM Inference
+- **ArXiv ID:** [oai:arXiv.org:2606.04594v2](oai:arXiv.org:2606.04594v2)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2606.04594v2 Announce Type: replace-cross  Abstract: LLM serving frameworks are quickly evolving with a complex software stack and a vast number of optimizations. The rapid development process can introduce silent errors where output quality silently degrades without any ex
+
+### Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code
+- **ArXiv ID:** [oai:arXiv.org:2606.11817v3](oai:arXiv.org:2606.11817v3)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2606.11817v3 Announce Type: replace-cross  Abstract: Large Language Models (LLMs) are increasingly used for code generation, raising concerns that they may be misused to produce malicious code. Meanwhile, Grammar-Constrained Decoding (GCD) has been widely adopted to improve
+
+### Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning
+- **ArXiv ID:** [oai:arXiv.org:2606.12109v3](oai:arXiv.org:2606.12109v3)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2606.12109v3 Announce Type: replace-cross  Abstract: Pretrained vision-language-action (VLA) models offer semantic and spatial priors for robot manipulation, but their parallel-gripper interfaces leave multi-finger contact coordination implicit. Adapting these models requir
+
+### Large-Language-Model Discovery of Quantum LDPC Codes through Structured Concept Evolution
+- **ArXiv ID:** [oai:arXiv.org:2606.24808v2](oai:arXiv.org:2606.24808v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2606.24808v2 Announce Type: replace-cross  Abstract: Quantum low-density parity-check codes promise low-overhead error correction, but high-performing constructions remain hard to find. Here we introduce structured concept evolution, in which a large language model (LLM) ev
+
+### Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games
+- **ArXiv ID:** [oai:arXiv.org:2606.25997v3](oai:arXiv.org:2606.25997v3)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2606.25997v3 Announce Type: replace-cross  Abstract: There has been significant recent progress in algorithms for approximation of Nash equilibrium in large two-player zero-sum imperfect-information games and exact computation of Nash equilibrium in multiplayer strategic-fo
+
+### Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces
+- **ArXiv ID:** [oai:arXiv.org:2607.00481v2](oai:arXiv.org:2607.00481v2) [[GitHub]](https://github.com/liujlong27/SMT)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2607.00481v2 Announce Type: replace-cross  Abstract: Jailbreak attacks remain a critical threat to the safe deployment of large language models (LLMs). While prior work has primarily studied attacks and defenses at the prompt level, we show that this prompt-centric paradigm
+
+### GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks
+- **ArXiv ID:** [oai:arXiv.org:2607.05369v3](oai:arXiv.org:2607.05369v3)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2607.05369v3 Announce Type: replace-cross  Abstract: For robots to work reliably in commercial and industrial applications, recent advances in agentic coding systems have potential to combine interpretable robot programming with the open-world adaptability of model-free pol
+
+### Token Time Continuous Diffusion for Language Modeling
+- **ArXiv ID:** [oai:arXiv.org:2607.14106v2](oai:arXiv.org:2607.14106v2)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2607.14106v2 Announce Type: replace-cross  Abstract: In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sa
+
+### Revisiting data-driven dynamic security assessment with a tabular foundation model
+- **ArXiv ID:** [oai:arXiv.org:2607.16031v2](oai:arXiv.org:2607.16031v2)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2607.16031v2 Announce Type: replace-cross  Abstract: Data-driven pre-fault dynamic security assessment (DSA) rapidly evaluates the dynamic risk of credible contingencies on a power system using machine learning (ML). Existing approaches face two limitations.
+
+### Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems
+- **ArXiv ID:** [oai:arXiv.org:2608.21095v2](oai:arXiv.org:2608.21095v2) [[GitHub]](https://github.com/GPT-Laboratory/TrustworthyRAG)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2608.21095v2 Announce Type: replace-cross  Abstract: Retrieval-Augmented Generation (RAG) grounds Large Language Model (LLM) outputs in external knowledge, but RAG systems usually trust whatever they retrieve, creating a Security-Reliability Gap: high semantic relevance doe
+
+### Zero-Compute Cross-Lingual Transferability Estimation Using Typological Feature Proxies
+- **ArXiv ID:** [oai:arXiv.org:2609.39640v2](oai:arXiv.org:2609.39640v2) [[GitHub]](https://github.com/dharmsen/typo-x-ling-transfer)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2609.39640v2 Announce Type: replace-cross  Abstract: Cross-lingual transfer describes how knowledge in a source language benefits a target language. Measuring it quantitatively requires broad multilingual pre-training, as prior work has done with cross-lingual transfer matr
+
+### SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models
+- **ArXiv ID:** [oai:arXiv.org:2610.06598v2](oai:arXiv.org:2610.06598v2) [[GitHub]](https://github.com/Wang-Xiaodong1899/SimForcing)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2610.06598v2 Announce Type: replace-cross  Abstract: Action-conditioned robot world models must respond precisely to robot trajectories while preserving realistic visual dynamics, yet learning both from heterogeneous robot videos remains challenging. Simulation offers struc
+
+### DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning
+- **ArXiv ID:** [oai:arXiv.org:2610.16822v2](oai:arXiv.org:2610.16822v2)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2610.16822v2 Announce Type: replace-cross  Abstract: Architecture attribute predictors reduce the cost of neural architecture search by estimating accuracy or latency from a small set of evaluated candidates. Neural architectures are operation-labeled directed acyclic graph
+
+### Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference
+- **ArXiv ID:** [oai:arXiv.org:2610.21257v2](oai:arXiv.org:2610.21257v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2610.21257v2 Announce Type: replace-cross  Abstract: Large Language Models (LLMs) demand efficient inference, where the multiply-accumulate (MAC) operations in linear projections dominate compute and energy cost. Post-training quantization (PTQ) reduces this cost by mapping
+
+### Asymmetric On-Policy Distillation Learns In-Context Exploration
+- **ArXiv ID:** [oai:arXiv.org:2610.30105v2](oai:arXiv.org:2610.30105v2)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2610.30105v2 Announce Type: replace-cross  Abstract: Sequential decision-making under partial observability is difficult because agents must explore to infer hidden, task-relevant information before acting effectively. Learning such information-gathering behaviors tabula ra
+
+### Bridging the Data Gap: Source-Informed Task-Space Transport for Few-Shot Diffusion
+- **ArXiv ID:** [oai:arXiv.org:2610.31323v2](oai:arXiv.org:2610.31323v2)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2610.31323v2 Announce Type: replace-cross  Abstract: When an object category is well represented in one domain but scarcely observed in another, adapting a diffusion model to the target can be unreliable. Yet the same source-target relationship may have been observed for ot
+
+### SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference
+- **ArXiv ID:** [oai:arXiv.org:2610.34824v2](oai:arXiv.org:2610.34824v2)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2610.34824v2 Announce Type: replace-cross  Abstract: LLMs on edge devices are constrained by limited memory and bandwidth. Although 1.58-bit ternary weights greatly reduce model storage, long-context inference is increasingly bottlenecked by KV-cache traffic and attention.
+
+### Labadain-MedQA: A Tetun Medical QA Dataset for Fine-Tuning and Evaluating Large Language Models
+- **ArXiv ID:** [oai:arXiv.org:2611.00935v2](oai:arXiv.org:2611.00935v2) [[GitHub]](https://github.com/labadain/labadain-medqa)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.00935v2 Announce Type: replace-cross  Abstract: Advances in large language models (LLMs) have created opportunities for cross-lingual transfer of medical knowledge from high-resource to low-resource languages to support access to healthcare information. However, medica
+
+### Exploiting Textual Semantics for Robust Cross-View Object Correspondence
+- **ArXiv ID:** [oai:arXiv.org:2611.02356v2](oai:arXiv.org:2611.02356v2) [[GitHub]](https://github.com/VAIL-Fan/TeSCo)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.02356v2 Announce Type: replace-cross  Abstract: Cross-view object correspondence (CVOC) aims to establish associations of the same target between query and search videos captured from different viewpoints. Existing methods often rely on visual cues for CVOC.
+
+### Separating Common and Unique Directions for Model Merging
+- **ArXiv ID:** [oai:arXiv.org:2611.04108v2](oai:arXiv.org:2611.04108v2) [[GitHub]](https://github.com/stwang666/CUSD)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.04108v2 Announce Type: replace-cross  Abstract: Model merging combines multiple fine-tuned models without additional training, and arithmetic methods have emerged as a simple yet effective way to merge models without data. However, existing arithmetic methods treat tas
