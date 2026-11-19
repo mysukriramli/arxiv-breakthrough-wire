@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-11-18T20:39:32.304388+00:00",
-    "papers_scanned": 319,
-    "breakthroughs_identified": 82,
+    "generated_at": "2026-11-19T07:36:20.183330+00:00",
+    "papers_scanned": 401,
+    "breakthroughs_identified": 105,
     "schema_version": "1.0.0"
   },
   "papers": [
@@ -12,7 +12,7 @@
       "authors": [
         "Zheng-Xin Yong, Benjamin Arnav, Miles Wang, Tomek Korbak, Olivia Watkins"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21799v1",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -27,7 +27,7 @@
       "authors": [
         "Keshav Shenoy, Anthony Zang, Eric Gan, Jacqueline Tay, Amy Ngo, Sebastian Prasanna, Julian Stastny, Vivek Hebbar"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21832v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -37,19 +37,19 @@
       "tldr_summary": "arXiv:2611.21832v1 Announce Type: new  Abstract: As AI systems are increasingly used to automate AI R&amp;D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy "
     },
     {
-      "arxiv_id": "oai:arXiv.org:2611.21885v1",
+      "arxiv_id": "oai:arXiv.org:2611.21885v2",
       "title": "Language Models Can Rewrite Their Own Weights",
       "authors": [
         "Jiajun Fan, Neil He, Changyi Yang, Andy Mao, Xi Zhu, Chaoran Cheng, Kaiqu Liang, Shuaike Shen, Zetian Li, Ruihan Guo, Ge Liu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "pdf_url": "oai:arXiv.org:2611.21885v1",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.21885v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
-      "claimed_benchmarks": "MATH",
+      "claimed_benchmarks": "Empirical Evaluation",
       "has_github_repo": false,
       "github_url": "",
-      "tldr_summary": "arXiv:2611.21885v1 Announce Type: new  Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit t"
+      "tldr_summary": "arXiv:2611.21885v2 Announce Type: new  Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends."
     },
     {
       "arxiv_id": "oai:arXiv.org:2611.21925v1",
@@ -57,7 +57,7 @@
       "authors": [
         "Jameson Sandler, Shane Bergsma, Mostafa Elhoushi, Bin Claire Zhang, Gavia Gray, Joel Hestness, Nolan Dey, Ferdinando Fioretto"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21925v1",
       "is_breakthrough": true,
       "architecture_type": "Diffusion Model",
@@ -72,7 +72,7 @@
       "authors": [
         "Alan Subedi, Avhishek Biswas, Apala Pramanik, Amlan Balabantaray, Mikhail Titov, Santosh Pitla, Ozgur Kilic, Mehmet C. Vuran"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21937v1",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -87,7 +87,7 @@
       "authors": [
         "Owen Queen, Ioana Ciuca, Emma Dann, Jean Somalwar, Carine You, Steven Dillmann, Viraj Manwadkar, Evan Gorrell, Harrison G Zhang, Jonathan K Pritchard, Risa H Wechsler, James Zou"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21950v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -102,7 +102,7 @@
       "authors": [
         "Gengyue Dong, Ye Wei, Zheng Zhu, Yidong Han, Jiale Miao, Xiaojun Jia, Guanghui Li"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22017v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -117,7 +117,7 @@
       "authors": [
         "Yunxiao Shi (Australian National University), Tingwei Chen (University of Technology Sydney), Dannong Xu (Australian National University), Ahad N. Zehmakan (Australian National University), Jialie Shen (City St George's, University of London), Zhendong Chu (Squirrel Ai Learning), Qingsong Wen (Squirrel Ai Learning)"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22030v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -132,7 +132,7 @@
       "authors": [
         "Sara Khosravi, Xiaofei Wen, Majid Sarrafzadeh, Muhao Chen"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22069v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -147,7 +147,7 @@
       "authors": [
         "Qingcan Kang, Mingyang Liu, Shixiong Kai, Tao Zhong, Mingxuan Yuan"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22113v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -162,7 +162,7 @@
       "authors": [
         "Runxun Zhang, Onofrio Antonio Catalano, Jinqiao Wang, Jingwei Wei"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22169v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -177,7 +177,7 @@
       "authors": [
         "Daehee Lee, Dongsu Lee, Sanghyun Ahn, Minjong Yoo, Honguk Woo"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22174v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -192,7 +192,7 @@
       "authors": [
         "Jingyu Liu, Zongze Li, Zach Xu, Zhanhui Zhou, Tahseen Rabbani, Dawn Song, Ce Zhang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22179v1",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -207,7 +207,7 @@
       "authors": [
         "Selin Yildirim, Ali Zeyrek, Deming Chen"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22296v1",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -222,7 +222,7 @@
       "authors": [
         "Deep Shah, Nehal Kathrotia"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22299v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -237,7 +237,7 @@
       "authors": [
         "Xuan Zhang, Zhijian Zhou, Zicheng Hu, Yan Feng, Hongyan Hao, Yuan Qi, Chao Qu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22301v1",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -252,7 +252,7 @@
       "authors": [
         "Jiaxin Zhang, Yao Luo, Yuze Dan, Yunqin Li, Bowen Wang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22307v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -267,7 +267,7 @@
       "authors": [
         "Dunhan Li, Leilei Gan, Lirong Gao, Wenyan Fan, Yongwei Wang, Sheng Guo, Fei Wu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22310v1",
       "is_breakthrough": true,
       "architecture_type": "Reinforcement Learning",
@@ -282,7 +282,7 @@
       "authors": [
         "Jinyu Zhang, Di Huang, Zhiyuan Liu, Nikolas Geroliminis"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22330v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -292,19 +292,19 @@
       "tldr_summary": "arXiv:2611.22330v1 Announce Type: new  Abstract: Ride-hailing platforms reposition idle vehicles to improve spatial supply-demand balances. This problem is prediction-driven and multistage: at each stage, the platform forecasts future demand, executes current decisions, and uses "
     },
     {
-      "arxiv_id": "oai:arXiv.org:2611.22432v1",
+      "arxiv_id": "oai:arXiv.org:2611.22432v2",
       "title": "Think Once, Act Fast: Cost-Effective Recursive Self-Improvement for Decision Model Harness",
       "authors": [
         "Siqi Lai, Haitao Li, Hao Liu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "pdf_url": "oai:arXiv.org:2611.22432v1",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22432v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
       "claimed_benchmarks": "Empirical Evaluation",
       "has_github_repo": true,
       "github_url": "https://github.com/usail-hkust/JevRSI",
-      "tldr_summary": "arXiv:2611.22432v1 Announce Type: new  Abstract: Fast System-1 models enable responsive actions but struggle with complex or unfamiliar tasks. Large language model (LLM)-based System-2 provides strong reasoning capabilities, yet repeated invocation incurs substantial latency and "
+      "tldr_summary": "arXiv:2611.22432v2 Announce Type: new  Abstract: Fast System-1 models enable responsive actions but struggle with complex or unfamiliar tasks. Large language model (LLM)-based System-2 provides strong reasoning capabilities, yet repeated invocation incurs substantial latency and "
     },
     {
       "arxiv_id": "oai:arXiv.org:2611.22496v1",
@@ -312,7 +312,7 @@
       "authors": [
         "Coen van den Elsen, Laurens Geffert"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22496v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -327,7 +327,7 @@
       "authors": [
         "Raluca Stevenson, David Bignell, Jennifer C. White, Tabish Rashid, Emanuele Aiello, Mariya Hendriksen, Junha Hyung, Sadegh Aliakbarian, Abdelhak Lemkhenter, Marko Tot, Katja Hofmann, Sarah Parisot"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22497v1",
       "is_breakthrough": true,
       "architecture_type": "Transformer",
@@ -337,34 +337,124 @@
       "tldr_summary": "arXiv:2611.22497v1 Announce Type: new  Abstract: State-of-the-art world models have been used to produce sequences of gameplay that accord with provided user-input actions. However, high quality, consistent gameplay generation often comes at the cost of inference speed, making re"
     },
     {
-      "arxiv_id": "oai:arXiv.org:2611.22563v1",
+      "arxiv_id": "oai:arXiv.org:2611.22563v2",
       "title": "CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference",
       "authors": [
         "Oleg Pavlov, Nikita Gavrilov, Soslan Kabisov, Gennadii Savrasov, Andrey Kuznetsov, Anton Konushin, Dmitrii Zhemchuzhnikov"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "pdf_url": "oai:arXiv.org:2611.22563v1",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22563v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
       "claimed_benchmarks": "Empirical Evaluation",
       "has_github_repo": true,
       "github_url": "https://github.com/kulibinai/cadmageddon",
-      "tldr_summary": "arXiv:2611.22563v1 Announce Type: new  Abstract: CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computational resources they can afford."
+      "tldr_summary": "arXiv:2611.22563v2 Announce Type: new  Abstract: CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computational resources they can afford."
     },
     {
-      "arxiv_id": "oai:arXiv.org:2611.22565v1",
+      "arxiv_id": "oai:arXiv.org:2611.22565v2",
       "title": "MillBill: A Machining Agent with Geometric Feedback",
       "authors": [
         "Gennadii Savrasov, Artem Slavin, Soslan Kabisov, Andrey Kuznetsov, Anton Konushin, Dmitrii Zhemchuzhnikov"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "pdf_url": "oai:arXiv.org:2611.22565v1",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22565v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
       "claimed_benchmarks": "Empirical Evaluation",
       "has_github_repo": true,
       "github_url": "https://github.com/kulibinai/millbill",
-      "tldr_summary": "arXiv:2611.22565v1 Announce Type: new  Abstract: Turning a CAD model into a machining program requires both process knowledge and geometric precision. Language models can generate such workflows by writing geometry and toolpath code for each part, but this makes numerical executi"
+      "tldr_summary": "arXiv:2611.22565v2 Announce Type: new  Abstract: Turning a CAD model into a machining program requires both process knowledge and geometric precision. Language models can generate such workflows by writing geometry and toolpath code for each part, but this makes numerical executi"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22605v1",
+      "title": "Simplicity Goes Far: Auditing Prompt Optimizers with Demonstration-Conditioned Prompt Search",
+      "authors": [
+        "Bohe Chen"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22605v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/bhc6/DCPS",
+      "tldr_summary": "arXiv:2611.22605v1 Announce Type: new  Abstract: Automatic prompt optimization is growing more elaborate. Recent methods stack policy-gradient updates, trace reflection, and evolutionary search."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22648v1",
+      "title": "EDA: Observe, Verify, and Assess for Evidence-Grounded Multimodal Depression Analysis",
+      "authors": [
+        "Changzeng Fu, Ming Shang, Xinyi Zhang, Jiadong Wang, Runhao Zeng, Shiqi Zhao"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22648v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22648v1 Announce Type: new  Abstract: Existing multimodal depression assessment methods often summarize long recordings into global behavioral descriptions. This leaves the source and decision relevance of individual observations difficult to inspect."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22661v1",
+      "title": "The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory",
+      "authors": [
+        "Caoxin Wang, Shengkai Gan, Xiang Hu, Lili Pan"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22661v1",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/learninginvision/BRED",
+      "tldr_summary": "arXiv:2611.22661v1 Announce Type: new  Abstract: Executing an idea often changes how promising it looks, so the next step in autonomous research should rest on results, not on proposals. After each round of experiments, the system must decide whether to refine the best solution o"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22988v1",
+      "title": "Structured AI ideation yields physical strategies for epithelial barrier repair",
+      "authors": [
+        "Geonho Nah, Johyun Park, Kyung-Ah Cho, Suyoung Hwang, Yoon Hee Lim, Eun-kyung Min, Seunghyun Moon, Donghyun Koh, Seungwon Kim, Jiho Park, Hojin Yoo, Myungsun Nam, Haneul Choi, Kyungsu Kim, In-Sun Hong, YunJae Jung, Minhyeong Lee"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22988v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22988v1 Announce Type: new  Abstract: AI systems increasingly support literature analysis, candidate evaluation and hypothesis refinement, but enabling researchers to explore research directions beyond established disciplinary approaches remains challenging. We develop"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.23010v1",
+      "title": "PhysScope: Agentic Multimodal Physics Reasoning with Grounded Visual Memory",
+      "authors": [
+        "Haoyang Liu, Kecheng Liang, Xinyu Li, Weixing Chen, Yang Liu"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.23010v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.23010v1 Announce Type: new  Abstract: Vision-language models (VLMs) can correctly interpret physics diagrams yet apply constraints outside the states or conditions in which they hold, causing premise errors to propagate through subsequent calculations. We introduce Phy"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.23055v1",
+      "title": "FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond",
+      "authors": [
+        "Bingjun Luo, Jialin Guo, Siqi Li"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.23055v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/bingjunluo/FrameRouter",
+      "tldr_summary": "arXiv:2611.23055v1 Announce Type: new  Abstract: Long-video question answering benchmarks like Video-MME-v2 typically evaluate systems under a uniform frame budget for every question, despite stark variation in the evidence each query actually demands. We analyze this mismatch on"
     },
     {
       "arxiv_id": "oai:arXiv.org:2611.21691v1",
@@ -372,7 +462,7 @@
       "authors": [
         "Sicong Liu, Fengmin Wu, Yuan Gao, Bin Guo, Zimu Zhou, Hongkai Wen, Zhiwen Yu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21691v1",
       "is_breakthrough": true,
       "architecture_type": "Transformer",
@@ -387,7 +477,7 @@
       "authors": [
         "S M Zia Ur Rashid, Sazidul Islam Hira, Rupesh Sah, Suman Rath"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21695v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -402,7 +492,7 @@
       "authors": [
         "Xingzi Xu, Mehmet Saygin Seyfioglu, Karim Bouyarmane"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21766v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -417,7 +507,7 @@
       "authors": [
         "Cheng Li, Adhyyan Narang, Jiayi Yuan, John F. Buss, Jina Suh, Devon Sandel-Fernandez, Yulia Tsvetkov, Adam M. Kuczynski, Tim Althoff"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21808v1",
       "is_breakthrough": false,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -432,7 +522,7 @@
       "authors": [
         "Minghui Zhao, Yiming Li, Sophie Zhu, Maxwell Khor, Lauren Ouyang, Hai \"Helen\" Li, Yiran Chen, Tingjun Chen"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21845v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -447,7 +537,7 @@
       "authors": [
         "Baiting Luo, Shatadal Mishra, Ahmadreza Moradipari, Nejib Ammar"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21851v1",
       "is_breakthrough": true,
       "architecture_type": "Reinforcement Learning",
@@ -462,7 +552,7 @@
       "authors": [
         "Samir Ahmed, Shaaz Saleem, Devin Dhami, Wesley Maia, Angel Martinez-Sanchez, Parthib Roy, Jannatul Ferdous Srabonee, Ahmed Sabbir Arif, Ross Greer"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21945v1",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -477,7 +567,7 @@
       "authors": [
         "Varun Darshana Parekh, Anusha Devulapally, Sivani Devarapalli, Cassius Henderson, Shimeng Yu, Vijaykrishnan Narayanan"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21954v1",
       "is_breakthrough": false,
       "architecture_type": "Transformer",
@@ -492,7 +582,7 @@
       "authors": [
         "Alexandra G. Roberts, Tonmoy Hossain, Mark Olchanyi, Stefan Brandst\\\"atter, Jonathan Williams Ramirez, Ana Lawry Aguila, Matthew Rosen, Annabel Sorby-Adams, W. Taylor Kimberly, Juan Eugenio Iglesias"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.21975v1",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -507,7 +597,7 @@
       "authors": [
         "Shengyuan Hu, Yiyong Sun, Weihang Shan, Yongzhe Chang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22061v1",
       "is_breakthrough": false,
       "architecture_type": "State Space Model (SSM/Mamba)",
@@ -522,7 +612,7 @@
       "authors": [
         "Bingnan Zhao, Harshala Gammulle, Tharindu Fernando"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22144v1",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -537,7 +627,7 @@
       "authors": [
         "An-Sheng Jhang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22188v1",
       "is_breakthrough": false,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -552,7 +642,7 @@
       "authors": [
         "Seiya Kawano, Koji Marusaki, Hirofumi Nonaka, Koichiro Yoshino"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22270v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -567,7 +657,7 @@
       "authors": [
         "Qifeng Xie, Kai-Yuan Feng, Wenkang Wan, Yue Wu, Maoguo Gong, Kai Sheng"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22297v1",
       "is_breakthrough": false,
       "architecture_type": "Diffusion Model",
@@ -582,7 +672,7 @@
       "authors": [
         "Prashant Khatri, Bhavana Malagavalli, Saiful Haq, Niyati Chhaya"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22382v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -592,19 +682,19 @@
       "tldr_summary": "arXiv:2611.22382v1 Announce Type: cross  Abstract: Large language models (LLMs) have renewed interest in Page Stream Segmentation (PSS), splitting a multi-page file into its constituent documents. Yet published LLM methods still frame the task as boundary classification over one "
     },
     {
-      "arxiv_id": "oai:arXiv.org:2611.22464v1",
+      "arxiv_id": "oai:arXiv.org:2611.22464v2",
       "title": "MAVE: Reconstructing Editable 3D Blockouts from Film Shots",
       "authors": [
         "Yifan Chang, Jian Yang, Jiangnan Shao, Xiaofeng Wang, Zhaoxin Fan, Renjing Xu, Ming Lu, Xingang Wang, Zheng Zhu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "pdf_url": "oai:arXiv.org:2611.22464v1",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22464v2",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
       "claimed_benchmarks": "Empirical Evaluation",
       "has_github_repo": true,
       "github_url": "https://github.com/yfChang-cv/MAVE",
-      "tldr_summary": "arXiv:2611.22464v1 Announce Type: cross  Abstract: Animated 3D blockouts support previsualization and provide structural conditions for video generation, but manually reconstructing them from reference videos is costly. This limits both their use by creators and the production of"
+      "tldr_summary": "arXiv:2611.22464v2 Announce Type: cross  Abstract: Animated 3D blockouts support previsualization and provide structural conditions for video generation, but manually reconstructing them from reference videos is costly. This limits both their use by creators and the production of"
     },
     {
       "arxiv_id": "oai:arXiv.org:2611.22482v1",
@@ -612,7 +702,7 @@
       "authors": [
         "Guoping Xu, Jinling Zhu, Liuyue Li"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22482v1",
       "is_breakthrough": false,
       "architecture_type": "Transformer",
@@ -627,7 +717,7 @@
       "authors": [
         "Kenton White"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22515v1",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -642,7 +732,7 @@
       "authors": [
         "Jiachun Li, Zhuoran Jin, Kang Liu, Jun Zhao"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.22541v1",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -652,12 +742,267 @@
       "tldr_summary": "arXiv:2611.22541v1 Announce Type: cross  Abstract: Spatial reasoning is a fundamental component of world understanding for Multimodal Large Language Models (MLLMs). While existing research has advanced the perception of spatial relations in static scenes, the domain of dynamic sp"
     },
     {
+      "arxiv_id": "oai:arXiv.org:2611.22639v2",
+      "title": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
+      "authors": [
+        "Artem Guba, Nikolay Kovalev, Alexey Zharinov, Vacheslav Demin, Viktor B. Kazantsev"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22639v2",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22639v2 Announce Type: cross  Abstract: Central pattern generators (CPGs) provide a biologically inspired foundation for adaptive locomotor control, yet systematically characterizing their dynamic regimes in spiking neural networks remains challenging. This study intro"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22673v1",
+      "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
+      "authors": [
+        "Do Xuan Long, Long T. Le, Yiwen Song, Min-Yen Kan, Tomas Pfister, Yale Song"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22673v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22673v1 Announce Type: cross  Abstract: We introduce Faithfulness Video Score (FVSCORE), a neuro-symbolic framework for specification-driven video generation evaluation. Existing evaluators rely on holistic MLLM judgments or vision-language metrics, yet aligning their "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22682v1",
+      "title": "CULypso: A Clustered Federated Unlearning paradigm for Vehicular Ad-Hoc Networks",
+      "authors": [
+        "Eleftheria Chini, George Margaritis, Dimitrios Katsaros"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22682v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22682v1 Announce Type: cross  Abstract: Unlearning has emerged as an essential security and privacy-preserving solution in Machine Learning, enabling networks to support their clients' rights for data erasure, as mandated by data protection regulations. Introducing suc"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22691v1",
+      "title": "Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving",
+      "authors": [
+        "Jia Hu, Yang Chang, Panqu Wang, Zhijun Fu, Chang Liu, Changjian Yu, Jintao Lai"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22691v1",
+      "is_breakthrough": true,
+      "architecture_type": "Reinforcement Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22691v1 Announce Type: cross  Abstract: World models (WMs) generate driving scenarios beyond recorded logs, enabling the training and evaluation of autonomous driving systems in unseen interactions. However, existing WMs struggle to ensure both behavioral realism and v"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22708v1",
+      "title": "Cross-cultural Adaptation of Recipes for Low-Resource Languages: A Benchmark and Multilingual Culinary Lexicon for Hausa, Yor\\`ub\\'a, and Igbo",
+      "authors": [
+        "Nuhu Ibrahim, Maryam Abdulazeez, Fatsuma Jauro, Salisu Aliyu, Robert Stevens, Riza Batista-Navarro"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22708v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22708v1 Announce Type: cross  Abstract: Recent multilingual large language models (LLMs) have improved machine translation, yet culturally adaptive translation for low-resource languages (LRLs) remains underexplored. This is particularly challenging for recipes, where "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22766v1",
+      "title": "StitchRAG: Constructing Compact and Evidence-Preserving Contexts for RAG with Diffusion-Based Stitching",
+      "authors": [
+        "Minsang Kim, Junpyo Lim, Heeje Cho, Seungjun Baek"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22766v1",
+      "is_breakthrough": true,
+      "architecture_type": "Diffusion Model",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22766v1 Announce Type: cross  Abstract: Retrieval-augmented generation (RAG) improves factuality by grounding large language models (LLMs) in external evidence. However, long retrieved contexts incur computational overhead and can even hurt performance due to noisy or "
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22769v1",
+      "title": "ForceBody: Force-Paired Parametric Body Motion with Torque Uncertainty",
+      "authors": [
+        "Joonwoo Kwon, Yufei Zhang, Xiaoming Liu, Zijun Cui"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22769v1",
+      "is_breakthrough": false,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/DominoAI-Lab/ForceBody-NeurIPS-ED-2026",
+      "tldr_summary": "arXiv:2611.22769v1 Announce Type: cross  Abstract: Forces and torques drive human motion, central to biomechanics, robotics, and physics-aware animation, yet they are often absent from learning-based motion pipelines for body reconstruction and generation. Some motion datasets pr"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22782v1",
+      "title": "PANO: Parallel Latent Space Neural Operator for Solving PDEs",
+      "authors": [
+        "Zijiang Yang, Xiaomeng Wu, Chen Kuang, Dongmei Fu"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22782v1",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/ZijiangY1116/PANO",
+      "tldr_summary": "arXiv:2611.22782v1 Announce Type: cross  Abstract: Aggregating observations into a limited number of latent tokens and learning physical interactions in the latent space has emerged as an effective approach for Transformer-based neural operators to solve Partial Differential Equa"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22790v1",
+      "title": "NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding",
+      "authors": [
+        "Tianci Xie, Li Chen, Pinxue Guo, Rui Zheng"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22790v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22790v1 Announce Type: cross  Abstract: Fine-grained questions about long videos ask how many times an action occurs, in what order events unfold, or exactly when a state changes. Answering them can require finding brief moments scattered across hours of footage."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22825v1",
+      "title": "A tiny object detection dataset for high-altitude open-water search and rescue",
+      "authors": [
+        "Hui Xu, Chenfei Hou, Henglai Wei, Hao Wang, Yidong Jin, Xiulin Niu, Haoyang Zhang, Hui Zhang, Tianshi Xu"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22825v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22825v1 Announce Type: cross  Abstract: Large aerial platforms often operate above 1.5 km to improve the efficiency of open water search and rescue (OW-SAR). However, long imaging distances, wide fields of view, and limited sensor resolution reduce objects to a few pix"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.22854v1",
+      "title": "WATERFALL: Workflow for Adaptive Training with Evolutionary Reward Formulation and Automated Learning Loops",
+      "authors": [
+        "Eleftherios Triantafyllidis, Filippos Christianos, Zhibin Li, Bernd Bickel"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.22854v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.22854v1 Announce Type: cross  Abstract: Reward design remains a central bottleneck in reinforcement learning (RL), particularly in sparse-reward, long-horizon and partially observable settings requiring dependency chaining, memory, and deceptive affordance disambiguati"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.23074v1",
+      "title": "Runtime Verification of Multiple Natural Language Criteria for Agent Governance",
+      "authors": [
+        "Silviu Pitis, Parand A. Alamdari, Jessica Tang, Toryn Q. Klassen, Sheila A. McIlraith"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.23074v1",
+      "is_breakthrough": true,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.23074v1 Announce Type: cross  Abstract: AI agents are governed by hundreds of natural language criteria, yet existing verifiers cannot efficiently evaluate an agent's output against a large set of such criteria and report which are satisfied, violated, or inapplicable."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.23093v1",
+      "title": "What's in a Tree ? Hierarchical $n$-gram models as controlled approximators of language",
+      "authors": [
+        "Aritra Das, Francesco Cagnetta, Darshil Doshi, Victor V. Albert, Maissam Barkeshli, Andrey Gromov"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.23093v1",
+      "is_breakthrough": true,
+      "architecture_type": "Transformer",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.23093v1 Announce Type: cross  Abstract: Hierarchical models have been proposed as synthetic settings for studying language. However, their relevance to realistic language corpora remains underexplored."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.23189v1",
+      "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
+      "authors": [
+        "Vincenzo Marcian\\`o, Xiaoming Zhang, Michela Antonelli, Sebastien Ourselin, Maria A Zuluaga"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.23189v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "ARC",
+      "has_github_repo": true,
+      "github_url": "https://github.com/robustml-eurecom/grace",
+      "tldr_summary": "arXiv:2611.23189v1 Announce Type: cross  Abstract: Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the residual str"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.23197v1",
+      "title": "Structure--Residual Inductive Biases for Language Model Pretraining",
+      "authors": [
+        "Hai Huang, Bartosz \\.Zuk, Rassul Magauin, Jiaxin Huang, Xue Liu"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.23197v1",
+      "is_breakthrough": false,
+      "architecture_type": "Machine Learning",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/haihuang-ml/structure-residual",
+      "tldr_summary": "arXiv:2611.23197v1 Announce Type: cross  Abstract: Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias."
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.23225v1",
+      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "authors": [
+        "Xingyang Yu"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.23225v1",
+      "is_breakthrough": false,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": true,
+      "github_url": "https://github.com/xingyang-yu/StringQFT",
+      "tldr_summary": "arXiv:2611.23225v1 Announce Type: cross  Abstract: We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering"
+    },
+    {
+      "arxiv_id": "oai:arXiv.org:2611.23229v1",
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "authors": [
+        "Giannis Daras, Marios Papachristou, Adam Klivans, Antonio Torralba, Constantinos Daskalakis"
+      ],
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2611.23229v1",
+      "is_breakthrough": true,
+      "architecture_type": "Retrieval-Augmented Generation (RAG)",
+      "claimed_benchmarks": "Empirical Evaluation",
+      "has_github_repo": false,
+      "github_url": "",
+      "tldr_summary": "arXiv:2611.23229v1 Announce Type: cross  Abstract: Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than th"
+    },
+    {
       "arxiv_id": "oai:arXiv.org:2501.09646v2",
       "title": "NS-Gym: A Comprehensive and Open-Source Simulation Framework for Non-Stationary Markov Decision Processes",
       "authors": [
         "Nathaniel S. Keplinger, Baiting Luo, Yunuo Zhang, Kyle Hollins Wray, Aron Laszka, Abhishek Dubey, Ayan Mukhopadhyay"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2501.09646v2",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -672,7 +1017,7 @@
       "authors": [
         "Yi Chu, Jinyuan Li, Yiwen Sun, Mengchuan Zou, Shaowei Cai"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2509.04007v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -687,7 +1032,7 @@
       "authors": [
         "Ruian Tie, Wenbo Xiong, Zhengyu Shi, Xinyu Su, Chenyu jiang, Libo Wu, Hao Li"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2601.21760v3",
       "is_breakthrough": false,
       "architecture_type": "Diffusion Model",
@@ -702,7 +1047,7 @@
       "authors": [
         "Pierre-Louis Favreau, Jean-Pierre Lo, Clement Guiguet, Charles Simon-Meunier, Nicolas Dehandschoewercker, Allen G. Roush, Judah Goldfeder, Ravid Shwartz-Ziv"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2602.07787v2",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -717,7 +1062,7 @@
       "authors": [
         "Ziqi Miao, Haonan Jia, Lijun Li, Chen Qian, Yuan Xiong, Wenting Yan, Yongyao Wang, Zaoying Huang, Ken Deng, Jing Shao"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2603.28618v3",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -732,7 +1077,7 @@
       "authors": [
         "Nicol\\'as Astorga, Anita Kriz, Mihaela van der Schaar"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2605.09079v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -747,7 +1092,7 @@
       "authors": [
         "Samuel Barbeau, Simon Roy, Giovanni Beltrame, Christian Desrosiers, Nicolas Thome"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2606.20627v4",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -762,7 +1107,7 @@
       "authors": [
         "Nadine Chang, Maying Shen, Shizhe Diao, Jialiang Wang, Jingde Chen, Thomas Breuel, Pavlo Molchanov, Rafid Mahmood, Jose M. Alvarez"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2607.22697v2",
       "is_breakthrough": false,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -777,7 +1122,7 @@
       "authors": [
         "Zongyu Wu, Yilong Wang, Xiaochen Wang, Minhua Lin, Zhichao Xu, Fenglong Ma, Xiang Zhang, Suhang Wang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2608.25986v2",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -792,7 +1137,7 @@
       "authors": [
         "Kangjun Noh, Soyu Kim, Kyungwoo Song"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2610.02975v2",
       "is_breakthrough": false,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -807,7 +1152,7 @@
       "authors": [
         "Dingyang Lyu, Jing Gao, Zhonghao Chang, Jingjie Huang, Xiangran Cheng, Xin He, Yongda Huang, Zhen Lei, Zefeng Li, Jiahui Liu, Jian Wen, Feng Yu, Bonan Zhu, Yongheng Li, Hongwei Du, Baole Wei, Ziheng Lu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2610.34203v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -822,7 +1167,7 @@
       "authors": [
         "Chaohong Guo, Xun Mo, Yongwei Nie, Fei Ma, Xuemiao Xu, Chengjiang Long"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2508.07683v3",
       "is_breakthrough": true,
       "architecture_type": "Reinforcement Learning",
@@ -837,7 +1182,7 @@
       "authors": [
         "Jin Seong, Wencke Liermann, Minho Kim, Jong-hun Shin, Soojong Lim"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2604.22774v3",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -852,7 +1197,7 @@
       "authors": [
         "Taein Lim, Seongyong Ju, Munhyeok Kim, Hyunjun Kim, Hoki Kim"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2605.07830v2",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -867,7 +1212,7 @@
       "authors": [
         "Chi-Nguyen Tran, Dao Sy Duy Minh, Huynh Trung Kiet, Nguyen Lam Phu Quy, Phu-Hoa Pham, Long Tran-Thanh"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2605.11654v3",
       "is_breakthrough": true,
       "architecture_type": "Transformer",
@@ -882,7 +1227,7 @@
       "authors": [
         "Priyam Sahoo, Gaurav Mittal, Xiaomin Li, Shengjie Ma, Benjamin Steenhoek, Pingping Lin, Yu Hu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2605.12925v5",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -897,7 +1242,7 @@
       "authors": [
         "Jihoon Kwon, Jiwon Choi, Jy-yong Sohn"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2605.20730v2",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -912,7 +1257,7 @@
       "authors": [
         "Minjae Kwon, Amir Moeini, Shangtong Zhang, Lu Feng"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2605.25267v2",
       "is_breakthrough": false,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -927,7 +1272,7 @@
       "authors": [
         "Zhihua Wang, Yifeng Gao, Yunhao Feng, Rui Pan, Zhouyuan Ma, Baiheng Zhao, Zixing Chen, Yanping Li, Yizhang Liu, Xingjun Ma"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2606.04493v2",
       "is_breakthrough": true,
       "architecture_type": "State Space Model (SSM/Mamba)",
@@ -942,7 +1287,7 @@
       "authors": [
         "Babak Barazandeh, Subhabrata Majumdar, Vinay Prithyani, George Michailidis"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2607.05114v2",
       "is_breakthrough": true,
       "architecture_type": "Mixture of Experts (MoE)",
@@ -957,7 +1302,7 @@
       "authors": [
         "Rwik Rana, Jesse Quattrociocchi, Christian Ellis, Nathan Tsoi, Garrett Warnell, Joydeep Biswas"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2607.13319v5",
       "is_breakthrough": true,
       "architecture_type": "Transformer",
@@ -967,19 +1312,19 @@
       "tldr_summary": "arXiv:2607.13319v5 Announce Type: replace-cross  Abstract: High-speed off-road autonomy requires precise closed-loop control for a target vehicle while remaining robust across changing terrains. Recent forward kinodynamic (FKD) prediction foundation models suggest a promising pat"
     },
     {
-      "arxiv_id": "oai:arXiv.org:2607.23624v4",
+      "arxiv_id": "oai:arXiv.org:2607.23624v5",
       "title": "Where Is the Cost of Third-Party API Routers in Agentic Software Development?",
       "authors": [
         "Donghao Fu, Jingxin Li, Xue Jiang, Yihong Dong"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "pdf_url": "oai:arXiv.org:2607.23624v4",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2607.23624v5",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
       "claimed_benchmarks": "Empirical Evaluation",
       "has_github_repo": true,
       "github_url": "https://github.com/Riyasushin/SIDEL",
-      "tldr_summary": "arXiv:2607.23624v4 Announce Type: replace-cross  Abstract: Third-party API routers have become a common layer that unifies access across increasingly diverse LLM providers. In coding-agent workflows, high-autonomy operation is widely adopted because it reduces interaction overhea"
+      "tldr_summary": "arXiv:2607.23624v5 Announce Type: replace-cross  Abstract: Third-party API routers have become a common layer that unifies access across increasingly diverse LLM providers. In coding-agent workflows, high-autonomy operation is widely adopted because it reduces interaction overhea"
     },
     {
       "arxiv_id": "oai:arXiv.org:2607.27951v2",
@@ -987,7 +1332,7 @@
       "authors": [
         "Pingyu Wu, Weiming Zhang, Nenghai Yu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2607.27951v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -1002,7 +1347,7 @@
       "authors": [
         "Haoran Ling, Yuecheng Li, Zeyu Song, Jing Yao, Shuwen Kang, Songcheng Ren, Chi Lu, Wenjin Wu, Peng Jiang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2607.29241v2",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -1017,7 +1362,7 @@
       "authors": [
         "Isaac Song, Mohammed Rehan Parwani, Glenn Matlin, Emile Anand, Akhil Theerthala, Arjun Chatterjee, Anthony Wen-Ming Zang, Maria Kostylew, Yonadav G. Shavit, Sebastien Krier, Mark Riedl"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2608.00023v3",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -1032,7 +1377,7 @@
       "authors": [
         "Weize Cai, Yongqi Dong, Zhida Shao, Zixin Fu, Xiaoxi Hu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2608.11537v2",
       "is_breakthrough": true,
       "architecture_type": "Diffusion Model",
@@ -1047,7 +1392,7 @@
       "authors": [
         "Piotr Jedryszek, Oliver M. Crook"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2608.27754v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -1057,19 +1402,19 @@
       "tldr_summary": "arXiv:2608.27754v2 Announce Type: replace-cross  Abstract: Sparse autoencoders (SAEs) could turn AI models in Biology and other fields into engines of scientific discovery by explaining the superhuman capabilities of those models. We postulate that a latent is useful if we know t"
     },
     {
-      "arxiv_id": "oai:arXiv.org:2609.23466v3",
+      "arxiv_id": "oai:arXiv.org:2609.23466v4",
       "title": "RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents",
       "authors": [
-        "Fanyu Zhao, Ruike Cao, Liang Dong, Fugen Yao, Jian Xu, Guanjun Jiang, Yifei Zhao, Yinsheng Li, Han Zhang"
+        "Fanyu Zhao, Ruike Cao, Liang Dong, Fugen Yao, Jian Xu, Guanjun Jiang, Yinsheng Li, Yifei Zhao, Han Zhang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "pdf_url": "oai:arXiv.org:2609.23466v3",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+      "pdf_url": "oai:arXiv.org:2609.23466v4",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
       "claimed_benchmarks": "ARC",
       "has_github_repo": true,
       "github_url": "https://github.com/Quark-Medical/rpmem",
-      "tldr_summary": "arXiv:2609.23466v3 Announce Type: replace-cross  Abstract: Long-running LLM agents require memory that persists and evolves across sessions. Text-based memory retrieves and reconstructs past interactions at every query, making long-horizon performance increasingly dependent on re"
+      "tldr_summary": "arXiv:2609.23466v4 Announce Type: replace-cross  Abstract: Long-running LLM agents require memory that persists and evolves across sessions. Text-based memory retrieves and reconstructs past interactions at every query, making long-horizon performance increasingly dependent on re"
     },
     {
       "arxiv_id": "oai:arXiv.org:2609.23808v2",
@@ -1077,7 +1422,7 @@
       "authors": [
         "Jingxuan Xu, Gang Wu, Yanan Wu, Yutao Mou, Songwei Yu, Tianzhuang He, Zhengshuo Gong, Zhao Liu, Zihang Xu, Wenqiang Zhu, Xinping Lei, Weihao Li, Ziqi Miao, Yuhui Bai, Zhongqiu Wang, Yan Wu, Ariel Deng"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2609.23808v2",
       "is_breakthrough": true,
       "architecture_type": "Reinforcement Learning",
@@ -1092,7 +1437,7 @@
       "authors": [
         "Shahar Haim, Daniel C. McNamee"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2609.32619v2",
       "is_breakthrough": true,
       "architecture_type": "Transformer",
@@ -1107,7 +1452,7 @@
       "authors": [
         "Yeryeong Kwak, Yoo-Min Jung, Jonghun Park"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2609.39789v2",
       "is_breakthrough": true,
       "architecture_type": "Transformer",
@@ -1122,7 +1467,7 @@
       "authors": [
         "Youpeng Wen, Gang Wang, Tianyu Huang, Weiwei Zhang, Zhijian Huang, Wei Chen, Xieyuanli Chen, Yunhui Liu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2610.18352v2",
       "is_breakthrough": true,
       "architecture_type": "Retrieval-Augmented Generation (RAG)",
@@ -1137,7 +1482,7 @@
       "authors": [
         "Yuxi Huang, Silin Zhou, Chenhao Wang, Zihan Li, Gangming Guo, Pei Ke, Lisi Chen, Shen Gao, Shuo Shang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2610.37584v4",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -1152,7 +1497,7 @@
       "authors": [
         "An-Sheng Jhang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.00597v3",
       "is_breakthrough": false,
       "architecture_type": "Machine Learning",
@@ -1167,7 +1512,7 @@
       "authors": [
         "Jiawei Jiang, Zhaoxiang Zang, Zhengtao Yu"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.07721v2",
       "is_breakthrough": true,
       "architecture_type": "Diffusion Model",
@@ -1182,7 +1527,7 @@
       "authors": [
         "Yunlong Hou, Fengzhuo Zhang, Yuan Cheng, Jiachun Pan, Xingyao Li, Zhuoran Yang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.14912v2",
       "is_breakthrough": true,
       "architecture_type": "Transformer",
@@ -1197,7 +1542,7 @@
       "authors": [
         "Yiyu Qian, Pengfei Guo, Liyuan Zhao"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.15507v2",
       "is_breakthrough": true,
       "architecture_type": "State Space Model (SSM/Mamba)",
@@ -1212,7 +1557,7 @@
       "authors": [
         "Tianqi Liu, Kaipu Sun, Kairui Fu, Wenkai Wang, Sihao Liu, Hui Zang, Ran Chen, Tao Wang, Shengyu Zhang"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.18244v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",
@@ -1227,7 +1572,7 @@
       "authors": [
         "Yipeng Sun, Jiajun Wang, Siyuan Mei, Yan Xia, Siming Bayer, Vincent Christlein, Andreas Maier"
       ],
-      "published_date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
       "pdf_url": "oai:arXiv.org:2611.20000v2",
       "is_breakthrough": true,
       "architecture_type": "Machine Learning",

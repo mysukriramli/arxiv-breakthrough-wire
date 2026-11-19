@@ -13,9 +13,9 @@
 - **TL;DR:** arXiv:2611.21832v1 Announce Type: new  Abstract: As AI systems are increasingly used to automate AI R&amp;D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy 
 
 ### Language Models Can Rewrite Their Own Weights
-- **ArXiv ID:** [oai:arXiv.org:2611.21885v1](oai:arXiv.org:2611.21885v1)
-- **Architecture:** `Machine Learning` | **Benchmarks:** `MATH`
-- **TL;DR:** arXiv:2611.21885v1 Announce Type: new  Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit t
+- **ArXiv ID:** [oai:arXiv.org:2611.21885v2](oai:arXiv.org:2611.21885v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.21885v2 Announce Type: new  Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends.
 
 ### DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding
 - **ArXiv ID:** [oai:arXiv.org:2611.21925v1](oai:arXiv.org:2611.21925v1)
@@ -98,9 +98,9 @@
 - **TL;DR:** arXiv:2611.22330v1 Announce Type: new  Abstract: Ride-hailing platforms reposition idle vehicles to improve spatial supply-demand balances. This problem is prediction-driven and multistage: at each stage, the platform forecasts future demand, executes current decisions, and uses 
 
 ### Think Once, Act Fast: Cost-Effective Recursive Self-Improvement for Decision Model Harness
-- **ArXiv ID:** [oai:arXiv.org:2611.22432v1](oai:arXiv.org:2611.22432v1) [[GitHub]](https://github.com/usail-hkust/JevRSI)
+- **ArXiv ID:** [oai:arXiv.org:2611.22432v2](oai:arXiv.org:2611.22432v2) [[GitHub]](https://github.com/usail-hkust/JevRSI)
 - **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
-- **TL;DR:** arXiv:2611.22432v1 Announce Type: new  Abstract: Fast System-1 models enable responsive actions but struggle with complex or unfamiliar tasks. Large language model (LLM)-based System-2 provides strong reasoning capabilities, yet repeated invocation incurs substantial latency and 
+- **TL;DR:** arXiv:2611.22432v2 Announce Type: new  Abstract: Fast System-1 models enable responsive actions but struggle with complex or unfamiliar tasks. Large language model (LLM)-based System-2 provides strong reasoning capabilities, yet repeated invocation incurs substantial latency and 
 
 ### DARWIN: a Geospatial Foundation Model for Marine Intelligence
 - **ArXiv ID:** [oai:arXiv.org:2611.22496v1](oai:arXiv.org:2611.22496v1)
@@ -113,14 +113,44 @@
 - **TL;DR:** arXiv:2611.22497v1 Announce Type: new  Abstract: State-of-the-art world models have been used to produce sequences of gameplay that accord with provided user-input actions. However, high quality, consistent gameplay generation often comes at the cost of inference speed, making re
 
 ### CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference
-- **ArXiv ID:** [oai:arXiv.org:2611.22563v1](oai:arXiv.org:2611.22563v1) [[GitHub]](https://github.com/kulibinai/cadmageddon)
+- **ArXiv ID:** [oai:arXiv.org:2611.22563v2](oai:arXiv.org:2611.22563v2) [[GitHub]](https://github.com/kulibinai/cadmageddon)
 - **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
-- **TL;DR:** arXiv:2611.22563v1 Announce Type: new  Abstract: CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computational resources they can afford.
+- **TL;DR:** arXiv:2611.22563v2 Announce Type: new  Abstract: CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computational resources they can afford.
 
 ### MillBill: A Machining Agent with Geometric Feedback
-- **ArXiv ID:** [oai:arXiv.org:2611.22565v1](oai:arXiv.org:2611.22565v1) [[GitHub]](https://github.com/kulibinai/millbill)
+- **ArXiv ID:** [oai:arXiv.org:2611.22565v2](oai:arXiv.org:2611.22565v2) [[GitHub]](https://github.com/kulibinai/millbill)
 - **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
-- **TL;DR:** arXiv:2611.22565v1 Announce Type: new  Abstract: Turning a CAD model into a machining program requires both process knowledge and geometric precision. Language models can generate such workflows by writing geometry and toolpath code for each part, but this makes numerical executi
+- **TL;DR:** arXiv:2611.22565v2 Announce Type: new  Abstract: Turning a CAD model into a machining program requires both process knowledge and geometric precision. Language models can generate such workflows by writing geometry and toolpath code for each part, but this makes numerical executi
+
+### Simplicity Goes Far: Auditing Prompt Optimizers with Demonstration-Conditioned Prompt Search
+- **ArXiv ID:** [oai:arXiv.org:2611.22605v1](oai:arXiv.org:2611.22605v1) [[GitHub]](https://github.com/bhc6/DCPS)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.22605v1 Announce Type: new  Abstract: Automatic prompt optimization is growing more elaborate. Recent methods stack policy-gradient updates, trace reflection, and evolutionary search.
+
+### EDA: Observe, Verify, and Assess for Evidence-Grounded Multimodal Depression Analysis
+- **ArXiv ID:** [oai:arXiv.org:2611.22648v1](oai:arXiv.org:2611.22648v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.22648v1 Announce Type: new  Abstract: Existing multimodal depression assessment methods often summarize long recordings into global behavioral descriptions. This leaves the source and decision relevance of individual observations difficult to inspect.
+
+### The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory
+- **ArXiv ID:** [oai:arXiv.org:2611.22661v1](oai:arXiv.org:2611.22661v1) [[GitHub]](https://github.com/learninginvision/BRED)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.22661v1 Announce Type: new  Abstract: Executing an idea often changes how promising it looks, so the next step in autonomous research should rest on results, not on proposals. After each round of experiments, the system must decide whether to refine the best solution o
+
+### Structured AI ideation yields physical strategies for epithelial barrier repair
+- **ArXiv ID:** [oai:arXiv.org:2611.22988v1](oai:arXiv.org:2611.22988v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.22988v1 Announce Type: new  Abstract: AI systems increasingly support literature analysis, candidate evaluation and hypothesis refinement, but enabling researchers to explore research directions beyond established disciplinary approaches remains challenging. We develop
+
+### PhysScope: Agentic Multimodal Physics Reasoning with Grounded Visual Memory
+- **ArXiv ID:** [oai:arXiv.org:2611.23010v1](oai:arXiv.org:2611.23010v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.23010v1 Announce Type: new  Abstract: Vision-language models (VLMs) can correctly interpret physics diagrams yet apply constraints outside the states or conditions in which they hold, causing premise errors to propagate through subsequent calculations. We introduce Phy
+
+### FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond
+- **ArXiv ID:** [oai:arXiv.org:2611.23055v1](oai:arXiv.org:2611.23055v1) [[GitHub]](https://github.com/bingjunluo/FrameRouter)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.23055v1 Announce Type: new  Abstract: Long-video question answering benchmarks like Video-MME-v2 typically evaluate systems under a uniform frame budget for every question, despite stark variation in the evidence each query actually demands. We analyze this mismatch on
 
 ### AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data
 - **ArXiv ID:** [oai:arXiv.org:2611.21691v1](oai:arXiv.org:2611.21691v1)
@@ -198,9 +228,9 @@
 - **TL;DR:** arXiv:2611.22382v1 Announce Type: cross  Abstract: Large language models (LLMs) have renewed interest in Page Stream Segmentation (PSS), splitting a multi-page file into its constituent documents. Yet published LLM methods still frame the task as boundary classification over one 
 
 ### MAVE: Reconstructing Editable 3D Blockouts from Film Shots
-- **ArXiv ID:** [oai:arXiv.org:2611.22464v1](oai:arXiv.org:2611.22464v1) [[GitHub]](https://github.com/yfChang-cv/MAVE)
+- **ArXiv ID:** [oai:arXiv.org:2611.22464v2](oai:arXiv.org:2611.22464v2) [[GitHub]](https://github.com/yfChang-cv/MAVE)
 - **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
-- **TL;DR:** arXiv:2611.22464v1 Announce Type: cross  Abstract: Animated 3D blockouts support previsualization and provide structural conditions for video generation, but manually reconstructing them from reference videos is costly. This limits both their use by creators and the production of
+- **TL;DR:** arXiv:2611.22464v2 Announce Type: cross  Abstract: Animated 3D blockouts support previsualization and provide structural conditions for video generation, but manually reconstructing them from reference videos is costly. This limits both their use by creators and the production of
 
 ### LeViT-UNet++: Towards Balanced Fine-Grained Details and Context for Efficient Medical Image Segmentation
 - **ArXiv ID:** [oai:arXiv.org:2611.22482v1](oai:arXiv.org:2611.22482v1) [[GitHub]](https://github.com/apple1986/levit_unet_pp)
@@ -216,6 +246,91 @@
 - **ArXiv ID:** [oai:arXiv.org:2611.22541v1](oai:arXiv.org:2611.22541v1)
 - **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
 - **TL;DR:** arXiv:2611.22541v1 Announce Type: cross  Abstract: Spatial reasoning is a fundamental component of world understanding for Multimodal Large Language Models (MLLMs). While existing research has advanced the perception of spatial relations in static scenes, the domain of dynamic sp
+
+### Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control
+- **ArXiv ID:** [oai:arXiv.org:2611.22639v2](oai:arXiv.org:2611.22639v2)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.22639v2 Announce Type: cross  Abstract: Central pattern generators (CPGs) provide a biologically inspired foundation for adaptive locomotor control, yet systematically characterizing their dynamic regimes in spiking neural networks remains challenging. This study intro
+
+### FVScore: Specification-Driven Neuro-Symbolic Video Evaluation
+- **ArXiv ID:** [oai:arXiv.org:2611.22673v1](oai:arXiv.org:2611.22673v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.22673v1 Announce Type: cross  Abstract: We introduce Faithfulness Video Score (FVSCORE), a neuro-symbolic framework for specification-driven video generation evaluation. Existing evaluators rely on holistic MLLM judgments or vision-language metrics, yet aligning their 
+
+### CULypso: A Clustered Federated Unlearning paradigm for Vehicular Ad-Hoc Networks
+- **ArXiv ID:** [oai:arXiv.org:2611.22682v1](oai:arXiv.org:2611.22682v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.22682v1 Announce Type: cross  Abstract: Unlearning has emerged as an essential security and privacy-preserving solution in Machine Learning, enabling networks to support their clients' rights for data erasure, as mandated by data protection regulations. Introducing suc
+
+### Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving
+- **ArXiv ID:** [oai:arXiv.org:2611.22691v1](oai:arXiv.org:2611.22691v1)
+- **Architecture:** `Reinforcement Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.22691v1 Announce Type: cross  Abstract: World models (WMs) generate driving scenarios beyond recorded logs, enabling the training and evaluation of autonomous driving systems in unseen interactions. However, existing WMs struggle to ensure both behavioral realism and v
+
+### Cross-cultural Adaptation of Recipes for Low-Resource Languages: A Benchmark and Multilingual Culinary Lexicon for Hausa, Yor\`ub\'a, and Igbo
+- **ArXiv ID:** [oai:arXiv.org:2611.22708v1](oai:arXiv.org:2611.22708v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.22708v1 Announce Type: cross  Abstract: Recent multilingual large language models (LLMs) have improved machine translation, yet culturally adaptive translation for low-resource languages (LRLs) remains underexplored. This is particularly challenging for recipes, where 
+
+### StitchRAG: Constructing Compact and Evidence-Preserving Contexts for RAG with Diffusion-Based Stitching
+- **ArXiv ID:** [oai:arXiv.org:2611.22766v1](oai:arXiv.org:2611.22766v1)
+- **Architecture:** `Diffusion Model` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.22766v1 Announce Type: cross  Abstract: Retrieval-augmented generation (RAG) improves factuality by grounding large language models (LLMs) in external evidence. However, long retrieved contexts incur computational overhead and can even hurt performance due to noisy or 
+
+### ForceBody: Force-Paired Parametric Body Motion with Torque Uncertainty
+- **ArXiv ID:** [oai:arXiv.org:2611.22769v1](oai:arXiv.org:2611.22769v1) [[GitHub]](https://github.com/DominoAI-Lab/ForceBody-NeurIPS-ED-2026)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.22769v1 Announce Type: cross  Abstract: Forces and torques drive human motion, central to biomechanics, robotics, and physics-aware animation, yet they are often absent from learning-based motion pipelines for body reconstruction and generation. Some motion datasets pr
+
+### PANO: Parallel Latent Space Neural Operator for Solving PDEs
+- **ArXiv ID:** [oai:arXiv.org:2611.22782v1](oai:arXiv.org:2611.22782v1) [[GitHub]](https://github.com/ZijiangY1116/PANO)
+- **Architecture:** `Transformer` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.22782v1 Announce Type: cross  Abstract: Aggregating observations into a limited number of latent tokens and learning physical interactions in the latent space has emerged as an effective approach for Transformer-based neural operators to solve Partial Differential Equa
+
+### NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding
+- **ArXiv ID:** [oai:arXiv.org:2611.22790v1](oai:arXiv.org:2611.22790v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.22790v1 Announce Type: cross  Abstract: Fine-grained questions about long videos ask how many times an action occurs, in what order events unfold, or exactly when a state changes. Answering them can require finding brief moments scattered across hours of footage.
+
+### A tiny object detection dataset for high-altitude open-water search and rescue
+- **ArXiv ID:** [oai:arXiv.org:2611.22825v1](oai:arXiv.org:2611.22825v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.22825v1 Announce Type: cross  Abstract: Large aerial platforms often operate above 1.5 km to improve the efficiency of open water search and rescue (OW-SAR). However, long imaging distances, wide fields of view, and limited sensor resolution reduce objects to a few pix
+
+### WATERFALL: Workflow for Adaptive Training with Evolutionary Reward Formulation and Automated Learning Loops
+- **ArXiv ID:** [oai:arXiv.org:2611.22854v1](oai:arXiv.org:2611.22854v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.22854v1 Announce Type: cross  Abstract: Reward design remains a central bottleneck in reinforcement learning (RL), particularly in sparse-reward, long-horizon and partially observable settings requiring dependency chaining, memory, and deceptive affordance disambiguati
+
+### Runtime Verification of Multiple Natural Language Criteria for Agent Governance
+- **ArXiv ID:** [oai:arXiv.org:2611.23074v1](oai:arXiv.org:2611.23074v1)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.23074v1 Announce Type: cross  Abstract: AI agents are governed by hundreds of natural language criteria, yet existing verifiers cannot efficiently evaluate an agent's output against a large set of such criteria and report which are satisfied, violated, or inapplicable.
+
+### What's in a Tree ? Hierarchical $n$-gram models as controlled approximators of language
+- **ArXiv ID:** [oai:arXiv.org:2611.23093v1](oai:arXiv.org:2611.23093v1)
+- **Architecture:** `Transformer` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.23093v1 Announce Type: cross  Abstract: Hierarchical models have been proposed as synthetic settings for studying language. However, their relevance to realistic language corpora remains underexplored.
+
+### Retrieval-Augmented Correction for Generalist Medical Image Segmentation
+- **ArXiv ID:** [oai:arXiv.org:2611.23189v1](oai:arXiv.org:2611.23189v1) [[GitHub]](https://github.com/robustml-eurecom/grace)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `ARC`
+- **TL;DR:** arXiv:2611.23189v1 Announce Type: cross  Abstract: Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the residual str
+
+### Structure--Residual Inductive Biases for Language Model Pretraining
+- **ArXiv ID:** [oai:arXiv.org:2611.23197v1](oai:arXiv.org:2611.23197v1) [[GitHub]](https://github.com/haihuang-ml/structure-residual)
+- **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.23197v1 Announce Type: cross  Abstract: Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias.
+
+### StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics
+- **ArXiv ID:** [oai:arXiv.org:2611.23225v1](oai:arXiv.org:2611.23225v1) [[GitHub]](https://github.com/xingyang-yu/StringQFT)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.23225v1 Announce Type: cross  Abstract: We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering
+
+### Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching
+- **ArXiv ID:** [oai:arXiv.org:2611.23229v1](oai:arXiv.org:2611.23229v1)
+- **Architecture:** `Retrieval-Augmented Generation (RAG)` | **Benchmarks:** `Empirical Evaluation`
+- **TL;DR:** arXiv:2611.23229v1 Announce Type: cross  Abstract: Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than th
 
 ### NS-Gym: A Comprehensive and Open-Source Simulation Framework for Non-Stationary Markov Decision Processes
 - **ArXiv ID:** [oai:arXiv.org:2501.09646v2](oai:arXiv.org:2501.09646v2) [[GitHub]](https://github.com/scope-lab-vu/ns_gym)
@@ -323,9 +438,9 @@
 - **TL;DR:** arXiv:2607.13319v5 Announce Type: replace-cross  Abstract: High-speed off-road autonomy requires precise closed-loop control for a target vehicle while remaining robust across changing terrains. Recent forward kinodynamic (FKD) prediction foundation models suggest a promising pat
 
 ### Where Is the Cost of Third-Party API Routers in Agentic Software Development?
-- **ArXiv ID:** [oai:arXiv.org:2607.23624v4](oai:arXiv.org:2607.23624v4) [[GitHub]](https://github.com/Riyasushin/SIDEL)
+- **ArXiv ID:** [oai:arXiv.org:2607.23624v5](oai:arXiv.org:2607.23624v5) [[GitHub]](https://github.com/Riyasushin/SIDEL)
 - **Architecture:** `Machine Learning` | **Benchmarks:** `Empirical Evaluation`
-- **TL;DR:** arXiv:2607.23624v4 Announce Type: replace-cross  Abstract: Third-party API routers have become a common layer that unifies access across increasingly diverse LLM providers. In coding-agent workflows, high-autonomy operation is widely adopted because it reduces interaction overhea
+- **TL;DR:** arXiv:2607.23624v5 Announce Type: replace-cross  Abstract: Third-party API routers have become a common layer that unifies access across increasingly diverse LLM providers. In coding-agent workflows, high-autonomy operation is widely adopted because it reduces interaction overhea
 
 ### LLM Misuse Safeguards Rely on Untrusted Input: A Widespread, High-Risk Vulnerability
 - **ArXiv ID:** [oai:arXiv.org:2607.27951v2](oai:arXiv.org:2607.27951v2)
@@ -353,9 +468,9 @@
 - **TL;DR:** arXiv:2608.27754v2 Announce Type: replace-cross  Abstract: Sparse autoencoders (SAEs) could turn AI models in Biology and other fields into engines of scientific discovery by explaining the superhuman capabilities of those models. We postulate that a latent is useful if we know t
 
 ### RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents
-- **ArXiv ID:** [oai:arXiv.org:2609.23466v3](oai:arXiv.org:2609.23466v3) [[GitHub]](https://github.com/Quark-Medical/rpmem)
+- **ArXiv ID:** [oai:arXiv.org:2609.23466v4](oai:arXiv.org:2609.23466v4) [[GitHub]](https://github.com/Quark-Medical/rpmem)
 - **Architecture:** `Machine Learning` | **Benchmarks:** `ARC`
-- **TL;DR:** arXiv:2609.23466v3 Announce Type: replace-cross  Abstract: Long-running LLM agents require memory that persists and evolves across sessions. Text-based memory retrieves and reconstructs past interactions at every query, making long-horizon performance increasingly dependent on re
+- **TL;DR:** arXiv:2609.23466v4 Announce Type: replace-cross  Abstract: Long-running LLM agents require memory that persists and evolves across sessions. Text-based memory retrieves and reconstructs past interactions at every query, making long-horizon performance increasingly dependent on re
 
 ### FLARE: A Full-Lifecycle Dense Supervision Paradigm for Long-Horizon Coding Agents via Generative Reward Model
 - **ArXiv ID:** [oai:arXiv.org:2609.23808v2](oai:arXiv.org:2609.23808v2)
